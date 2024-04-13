@@ -1,10 +1,10 @@
 import { Module } from '@nestjs/common';
-import { AppController } from './app.controller';
-import { AppService } from './app.service';
+
+import { DrizzleDB } from 'src/modules/databaseConnections/drizzle/index.module';
 
 @Module({
-  imports: [],
-  controllers: [AppController],
-  providers: [AppService],
+  imports: [DrizzleDB],
+  controllers: [],
+  providers: [],
 })
 export class AppModule {}
