@@ -1,20 +1,23 @@
+import { Module } from '@nestjs/common';
+import { ConfigService } from '@nestjs/config';
+
 import { DrizzlePostgresModule } from '@knaadh/nestjs-drizzle-postgres';
 
-import { Module } from '@nestjs/common';
-
 import * as schema from 'src/db/postgres';
+
+const configService = new ConfigService();
 
 @Module({
   imports: [
     DrizzlePostgresModule.register({
       tag: 'DATABASE',
       postgres: {
-        url: 'postgres://postgres:@seuHost:suaPorta/seuBanco',
+        url: configService.get<string>('DATABASE_URL'),
         config: {
-          hostname: 'secret',
-          username: 'secret',
-          password: 'secret',
-          database: 'secret',
+          hostname: configService.get<string>('DATABASE_HOSTNAME'),
+          username: configService.get<string>('DATABASE_USERNAME'),
+          password: configService.get<string>('DATABASE_PASSWORD'),
+          database: configService.get<string>('DATABASE_NAME'),
         },
       },
       config: { schema },

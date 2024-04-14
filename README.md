@@ -131,3 +131,73 @@ import { DrizzleDB } from 'src/modules/databaseConnections/drizzle/index.module'
 })
 export class AppModule {}
 ```
+
+### Configurando variáveis de ambiente.
+
+Comece instalando o módulo @nestjs/config para lidar com variáveis de ambiente:
+
+```shell
+yarn add @nestjs/config
+```
+
+Ou
+
+```shell
+npm i @nestjs/config
+```
+
+Em seu arquivo `src/app.module.ts`, importe `ConfigModule` e configure-o para carregar variáveis de ambiente de um arquivo `.env` ou do ambiente do sistema:
+
+```ts
+import { Module } from '@nestjs/common';
+import { ConfigModule } from '@nestjs/config';
+
+import { DrizzleDB } from 'src/modules/databaseConnections/drizzle/index.module';
+
+@Module({
+  imports: [
+    DrizzleDB,
+    ConfigModule.forRoot({
+      isGlobal: true,
+      envFilePath: '.env',
+    }),
+  ],
+  controllers: [],
+  providers: [],
+})
+export class AppModule {}
+```
+
+No arquivo `src/modules/databaseConnections/drizzle/index.module.ts`, configure a conexão com o banco de dados usando DrizzlePostgresModule e ConfigService:
+
+```ts
+import { Module } from '@nestjs/common';
+import { ConfigService } from '@nestjs/config';
+
+import { DrizzlePostgresModule } from '@knaadh/nestjs-drizzle-postgres';
+
+import * as schema from 'src/db/postgres';
+
+const configService = new ConfigService();
+
+@Module({
+  imports: [
+    DrizzlePostgresModule.register({
+      tag: 'DATABASE',
+      postgres: {
+        url: configService.get<string>('DATABASE_URL'),
+        config: {
+          hostname: configService.get<string>('DATABASE_HOSTNAME'),
+          username: configService.get<string>('DATABASE_USERNAME'),
+          password: configService.get<string>('DATABASE_PASSWORD'),
+          database: configService.get<string>('DATABASE_NAME'),
+        },
+      },
+      config: { schema },
+    }),
+  ],
+  controllers: [],
+  providers: [],
+})
+export class DrizzleDB {}
+```
