@@ -5,5 +5,4 @@ export const pokemon = pgTable('pokemon', {
   name: text('name'),
   pokedex_number: smallint('pokedex_number'),
   types: text('types'),
-  sprite: varchar('sprite'),
 });
