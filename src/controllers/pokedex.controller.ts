@@ -1,7 +1,9 @@
-import { Controller, Get, Query } from '@nestjs/common';
+import { Body, Controller, Get, Post, Query } from '@nestjs/common';
 
-import { PokedexService } from 'src/services/pokedex/index.service';
-import { PaginationService } from 'src/services/pagination/index.service';
+import { PokemonInseertData } from 'src/models/entity/pokemon.model';
+
+import { PokedexService } from './pokedex.service';
+import { PaginationService } from 'src/modules/index.service';
 
 @Controller()
 export class PokedexController {
@@ -15,12 +17,14 @@ export class PokedexController {
     const pageNumber = this.paginationService.parsePageNumber(page);
     const limitNumber = this.paginationService.parseLimitNumber(limit);
 
-    const totalPagesInPokedexPagination = await this.pokedexService.getTotalPages(limitNumber);
+    const totalPagesInPokedexPagination = await this.pokedexService.getTotalPages({
+      limit: limitNumber,
+    });
 
-    const pokedexPaginated = await this.pokedexService.findPokedexPaginated(
-      pageNumber,
-      limitNumber,
-    );
+    const pokedexPaginated = await this.pokedexService.findPokedexPaginated({
+      page: pageNumber,
+      limit: limitNumber,
+    });
 
     const pokedexResponseWithPagination = this.paginationService.buildResponse({
       page: pageNumber,

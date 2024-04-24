@@ -56,7 +56,7 @@ npm i @knaadh/nestjs-drizzle-postgres drizzle-orm postgres
 
 ### Criando Schemas e Models
 
-Crie os schemas do banco de dados no arquivo `src/db/postgres/index.ts`:
+Crie os schemas do banco de dados no arquivo `src/database/postgres/schemas/postgers.ts`:
 
 ```ts
 import { pgTable, serial, text, smallint, varchar } from 'drizzle-orm/pg-core';
@@ -70,7 +70,7 @@ export const pokemon = pgTable('pokemon', {
 });
 ```
 
-Para definir os tipos em sua aplicação, crie uma tipagem em `src/models/pokemon/index.model.ts`:
+Para definir os tipos em sua aplicação, crie uma tipagem em `src/models/pokemon/entity/pokemon.model.model.ts`:
 
 ```ts
 export type PokemonData = {
@@ -80,56 +80,6 @@ export type PokemonData = {
   types: string[];
   sprite: string;
 };
-```
-
-### Criando o Módulo de Conexão com o Banco de Dados
-
-Crie o módulo em `src/modules/databaseConnections/drizzle/index.module`:
-
-```ts
-import { DrizzlePostgresModule } from '@knaadh/nestjs-drizzle-postgres';
-
-import { Module } from '@nestjs/common';
-
-import * as schema from 'src/db/postgres';
-
-@Module({
-  imports: [
-    DrizzlePostgresModule.register({
-      tag: 'DATABASE',
-      postgres: {
-        url: 'postgres://postgres:@seuHost:suaPorta/seuDB',
-        config: {
-          hostname: 'secret',
-          username: 'secret',
-          password: 'secret',
-          database: 'secret',
-        },
-      },
-      config: { schema },
-    }),
-  ],
-  controllers: [],
-  providers: [],
-})
-export class DrizzleDB {}
-```
-
-### Integrando o Módulo de Conexão com o App.
-
-Finalmente, importe o módulo de conexão com o banco de dados e relacione-o ao módulo da aplicação em `src/app.module.ts`:
-
-```ts
-import { Module } from '@nestjs/common';
-
-import { DrizzleDB } from 'src/modules/databaseConnections/drizzle/index.module';
-
-@Module({
-  imports: [DrizzleDB],
-  controllers: [],
-  providers: [],
-})
-export class AppModule {}
 ```
 
 ### Configurando variáveis de ambiente.
@@ -152,52 +102,69 @@ Em seu arquivo `src/app.module.ts`, importe `ConfigModule` e configure-o para ca
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 
-import { DrizzleDB } from 'src/modules/databaseConnections/drizzle/index.module';
-
 @Module({
   imports: [
-    DrizzleDB,
     ConfigModule.forRoot({
       isGlobal: true,
       envFilePath: '.env',
     }),
   ],
   controllers: [],
-  providers: [],
+  providers: [ConfigService],
 })
 export class AppModule {}
 ```
 
-No arquivo `src/modules/databaseConnections/drizzle/index.module.ts`, configure a conexão com o banco de dados usando DrizzlePostgresModule e ConfigService:
+### Criando o Módulo de Conexão com o Banco de Dados
+
+Crie o módulo em `src/database/connections/postgres.module.ts`:
 
 ```ts
 import { Module } from '@nestjs/common';
-import { ConfigService } from '@nestjs/config';
 
 import { DrizzlePostgresModule } from '@knaadh/nestjs-drizzle-postgres';
 
-import * as schema from 'src/db/postgres';
-
-const configService = new ConfigService();
+import { DBConfigService } from './postgres.service';
 
 @Module({
   imports: [
-    DrizzlePostgresModule.register({
+    DrizzlePostgresModule.registerAsync({
       tag: 'DATABASE',
-      postgres: {
-        url: configService.get<string>('DATABASE_URL'),
-        config: {
-          hostname: configService.get<string>('DATABASE_HOSTNAME'),
-          username: configService.get<string>('DATABASE_USERNAME'),
-          password: configService.get<string>('DATABASE_PASSWORD'),
-          database: configService.get<string>('DATABASE_NAME'),
-        },
-      },
-      config: { schema },
+      useClass: DBConfigService,
     }),
   ],
   controllers: [],
   providers: [],
 })
-export class DrizzleDB {}
+export class PostgresDB {}
+```
+
+Crie o serviço em `src/database/connections/postgres.service.ts`:
+
+```ts
+import { Inject, Injectable } from '@nestjs/common';
+import { ConfigService } from '@nestjs/config';
+
+import * as schema from 'src/database/schemas/postgers';
+
+@Injectable()
+export class DBConfigService {
+  constructor(@Inject(ConfigService) private readonly configService: ConfigService) {}
+
+  create = () => {
+    return {
+      tag: 'DATABASE',
+      postgres: {
+        url: 'postgres://postgres:@127.0.0.1:5432/pokedex',
+        config: {
+          hostname: this.configService.get<string>('DATABASE_HOSTNAME'),
+          username: this.configService.get<string>('DATABASE_USERNAME'),
+          password: this.configService.get<string>('DATABASE_PASSWORD'),
+          database: this.configService.get<string>('DATABASE_NAME'),
+        },
+      },
+      config: { schema },
+    };
+  };
+}
 ```

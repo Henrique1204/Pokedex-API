@@ -1,8 +1,8 @@
 import { Module } from '@nestjs/common';
-import { ConfigModule } from '@nestjs/config';
+import { ConfigModule, ConfigService } from '@nestjs/config';
 
-import { DrizzleDB } from 'src/modules/databaseConnections/drizzle/index.module';
-import { PokedexModule } from 'src/modules/pokedex/index.module';
+import { PostgresDB } from 'src/database/connections/postgres.module';
+import { PokedexModule } from 'src/controllers/pokedex.module';
 
 @Module({
   imports: [
@@ -10,10 +10,10 @@ import { PokedexModule } from 'src/modules/pokedex/index.module';
       isGlobal: true,
       envFilePath: '.env',
     }),
-    DrizzleDB,
+    PostgresDB,
     PokedexModule,
   ],
   controllers: [],
-  providers: [],
+  providers: [ConfigService],
 })
 export class AppModule {}
