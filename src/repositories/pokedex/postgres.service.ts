@@ -1,16 +1,17 @@
 import { Inject, Injectable } from '@nestjs/common';
-import { count, sql } from 'drizzle-orm';
+import { count } from 'drizzle-orm';
 
 import { PostgresJsDatabase } from 'drizzle-orm/postgres-js';
 
-import { PokedexRepositore } from 'src/models/pokedexRepositorie.model';
+import { PokedexRepositorie } from 'src/models/repositories/pokedex.model';
 import * as PokemonEntity from 'src/models/entity/pokemon.model';
 
 import * as schema from 'src/database/schemas/postgers';
-import { pokemon } from 'src/database/schemas/postgers';
+
+import { selectFormattedPokemon } from 'src/utils/drizzle/sql/selectPokemon';
 
 @Injectable()
-export class PokedexPostgresRepositorie extends PokedexRepositore {
+export class PokedexPostgresRepositorie extends PokedexRepositorie {
   private readonly pokemonSchema = schema.pokemon;
 
   private readonly DEFAULT_PAGE: number = 1;
@@ -20,29 +21,11 @@ export class PokedexPostgresRepositorie extends PokedexRepositore {
     super();
   }
 
-  private selectFormattedPokemon(pokemonSchema: typeof pokemon) {
-    const pokemonArtworkURL = 'https://img.pokemondb.net/artwork/';
-    const pokemonArtworkFileExtension = '.jpg';
-
-    const spriteSchema =
-      sql`${pokemonArtworkURL} || ${pokemonSchema.name} || ${pokemonArtworkFileExtension}`.mapWith(
-        String,
-      );
-
-    return {
-      id: pokemonSchema.id,
-      name: pokemonSchema.name,
-      pokedexNumber: pokemonSchema.pokedex_number,
-      types: pokemonSchema.types,
-      sprite: spriteSchema,
-    };
-  }
-
   async findPokedexPaginated({ page = this.DEFAULT_PAGE, limit = this.DEFAULT_LIMIT }) {
     const paginationOffset = (page - this.DEFAULT_PAGE) * limit;
 
     const pokedexPaginated = await this.postegresDB
-      .select(this.selectFormattedPokemon(this.pokemonSchema))
+      .select(selectFormattedPokemon(this.pokemonSchema))
       .from(this.pokemonSchema)
       .limit(limit)
       .offset(paginationOffset);
@@ -61,9 +44,7 @@ export class PokedexPostgresRepositorie extends PokedexRepositore {
     return totalPages;
   }
 
-  async insertPokemon(uai: PokemonEntity.PokemonInseertData) {
-    const { name, pokedexNumber, types } = uai;
-
+  async insertPokemon({ name, pokedexNumber, types }: PokemonEntity.PokemonInseertData) {
     await this.postegresDB.insert(this.pokemonSchema).values({
       name,
       pokedex_number: pokedexNumber,

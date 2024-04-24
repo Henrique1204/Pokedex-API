@@ -1,6 +1,6 @@
 import { Module } from '@nestjs/common';
 
-import { PokedexRepositore } from 'src/models/pokedexRepositorie.model';
+import { PokedexRepositorie } from 'src/models/repositories/pokedex.model';
 
 import { PaginationService } from 'src/modules/index.service';
 
@@ -15,7 +15,7 @@ import { PokedexService } from './pokedex.service';
   providers: [
     PokedexService,
     PaginationService,
-    { provide: PokedexRepositore, useClass: PokedexPostgresRepositorie },
+    { provide: PokedexRepositorie, useClass: PokedexPostgresRepositorie },
   ],
 })
 export class PokedexModule {}

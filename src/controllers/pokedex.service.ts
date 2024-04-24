@@ -1,14 +1,14 @@
 import { Injectable } from '@nestjs/common';
 
 import {
-  PokedexRepositore,
+  PokedexRepositorie,
   LimitControl,
   PaginationControl,
-} from 'src/models/pokedexRepositorie.model';
+} from 'src/models/repositories/pokedex.model';
 
 @Injectable()
 export class PokedexService {
-  constructor(private pokedexRepositorie: PokedexRepositore) {}
+  constructor(private pokedexRepositorie: PokedexRepositorie) {}
 
   async findPokedexPaginated({ limit, page }: PaginationControl) {
     return this.pokedexRepositorie.findPokedexPaginated({ limit, page });

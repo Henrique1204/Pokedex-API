@@ -7,7 +7,7 @@ export type PaginationControl = {
 
 export type LimitControl = Pick<PaginationControl, 'limit'>;
 
-export abstract class PokedexRepositore {
+export abstract class PokedexRepositorie {
   abstract findPokedexPaginated(
     paginationControl: PaginationControl,
   ): Promise<PokemonEntity.PokemonResponseData[]>;

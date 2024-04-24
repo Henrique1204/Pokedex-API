@@ -1,6 +1,4 @@
-import { Body, Controller, Get, Post, Query } from '@nestjs/common';
-
-import { PokemonInseertData } from 'src/models/entity/pokemon.model';
+import { Controller, Get, Query } from '@nestjs/common';
 
 import { PokedexService } from './pokedex.service';
 import { PaginationService } from 'src/modules/index.service';
