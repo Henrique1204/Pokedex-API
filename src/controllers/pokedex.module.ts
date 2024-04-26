@@ -4,7 +4,10 @@ import { PokedexRepositorie } from 'src/models/repositories/pokedex.model';
 
 import { PaginationService } from 'src/modules/index.service';
 
+import { PrismaService } from 'src/database/connections/mongodb.service';
+
 import { PokedexPostgresRepositorie } from 'src/repositories/pokedex/postgres.service';
+import { PokedexMongodbRepositorie } from 'src/repositories/pokedex/mongodb.service';
 
 import { PokedexController } from './pokedex.controller';
 import { PokedexService } from './pokedex.service';
@@ -15,7 +18,8 @@ import { PokedexService } from './pokedex.service';
   providers: [
     PokedexService,
     PaginationService,
-    { provide: PokedexRepositorie, useClass: PokedexPostgresRepositorie },
+    PrismaService,
+    { provide: PokedexRepositorie, useClass: PokedexMongodbRepositorie },
   ],
 })
 export class PokedexModule {}

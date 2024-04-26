@@ -1,13 +1,12 @@
 import { sql } from 'drizzle-orm';
 
+import { POKEMON_ART_WORK, POKEMON_ART_WORK_EXTENSION } from 'src/utils/generateSprite';
+
 import * as schema from 'src/database/schemas/postgers';
 
 export function selectFormattedPokemon(pokemonSchema: typeof schema.pokemon) {
-  const pokemonArtworkURL = 'https://img.pokemondb.net/artwork/';
-  const pokemonArtworkFileExtension = '.jpg';
-
   const spriteSchema =
-    sql`${pokemonArtworkURL} || ${pokemonSchema.name} || ${pokemonArtworkFileExtension}`.mapWith(
+    sql`${POKEMON_ART_WORK} || ${pokemonSchema.name} || ${POKEMON_ART_WORK_EXTENSION}`.mapWith(
       String,
     );
 

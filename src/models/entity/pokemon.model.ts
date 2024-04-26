@@ -1,5 +1,5 @@
 export type PokemonDatabaseData = {
-  id: string;
+  id: string | number;
   name: string;
   pokedex_number: number;
   types: string[];

@@ -1,0 +1,15 @@
+model Pokemon {
+  id             String   @id @default(auto()) @map("_id") @db.ObjectId
+  name           String   @unique
+  pokedex_number Int      @unique
+  types          String[]
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
