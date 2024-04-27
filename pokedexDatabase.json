@@ -1,0 +1,10776 @@
+[{
+  "_id": {
+    "$oid": "662c62f445781da02c0fe528"
+  },
+  "name": "bulbasaur",
+  "pokedex_number": 1,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f445781da02c0fe529"
+  },
+  "name": "ivysaur",
+  "pokedex_number": 2,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f445781da02c0fe52a"
+  },
+  "name": "venusaur",
+  "pokedex_number": 3,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f545781da02c0fe52b"
+  },
+  "name": "charmander",
+  "pokedex_number": 4,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f545781da02c0fe52c"
+  },
+  "name": "charmeleon",
+  "pokedex_number": 5,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f545781da02c0fe52d"
+  },
+  "name": "charizard",
+  "pokedex_number": 6,
+  "types": [
+    "fire",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f545781da02c0fe52e"
+  },
+  "name": "squirtle",
+  "pokedex_number": 7,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f545781da02c0fe52f"
+  },
+  "name": "wartortle",
+  "pokedex_number": 8,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f645781da02c0fe530"
+  },
+  "name": "blastoise",
+  "pokedex_number": 9,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f645781da02c0fe531"
+  },
+  "name": "caterpie",
+  "pokedex_number": 10,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f645781da02c0fe532"
+  },
+  "name": "metapod",
+  "pokedex_number": 11,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f645781da02c0fe533"
+  },
+  "name": "butterfree",
+  "pokedex_number": 12,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f745781da02c0fe534"
+  },
+  "name": "weedle",
+  "pokedex_number": 13,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f745781da02c0fe535"
+  },
+  "name": "kakuna",
+  "pokedex_number": 14,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f745781da02c0fe536"
+  },
+  "name": "beedrill",
+  "pokedex_number": 15,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f845781da02c0fe537"
+  },
+  "name": "pidgey",
+  "pokedex_number": 16,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f845781da02c0fe538"
+  },
+  "name": "pidgeotto",
+  "pokedex_number": 17,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f845781da02c0fe539"
+  },
+  "name": "pidgeot",
+  "pokedex_number": 18,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f945781da02c0fe53a"
+  },
+  "name": "rattata",
+  "pokedex_number": 19,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f945781da02c0fe53b"
+  },
+  "name": "raticate",
+  "pokedex_number": 20,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62f945781da02c0fe53c"
+  },
+  "name": "spearow",
+  "pokedex_number": 21,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fa45781da02c0fe53d"
+  },
+  "name": "fearow",
+  "pokedex_number": 22,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fa45781da02c0fe53e"
+  },
+  "name": "ekans",
+  "pokedex_number": 23,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fa45781da02c0fe53f"
+  },
+  "name": "arbok",
+  "pokedex_number": 24,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fa45781da02c0fe540"
+  },
+  "name": "pikachu",
+  "pokedex_number": 25,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fb45781da02c0fe541"
+  },
+  "name": "raichu",
+  "pokedex_number": 26,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fb45781da02c0fe542"
+  },
+  "name": "sandshrew",
+  "pokedex_number": 27,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fb45781da02c0fe543"
+  },
+  "name": "sandslash",
+  "pokedex_number": 28,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fb45781da02c0fe544"
+  },
+  "name": "nidoran-f",
+  "pokedex_number": 29,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fc45781da02c0fe545"
+  },
+  "name": "nidorina",
+  "pokedex_number": 30,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fc45781da02c0fe546"
+  },
+  "name": "nidoqueen",
+  "pokedex_number": 31,
+  "types": [
+    "poison",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fc45781da02c0fe547"
+  },
+  "name": "nidoran-m",
+  "pokedex_number": 32,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fc45781da02c0fe548"
+  },
+  "name": "nidorino",
+  "pokedex_number": 33,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fd45781da02c0fe549"
+  },
+  "name": "nidoking",
+  "pokedex_number": 34,
+  "types": [
+    "poison",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fd45781da02c0fe54a"
+  },
+  "name": "clefairy",
+  "pokedex_number": 35,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fd45781da02c0fe54b"
+  },
+  "name": "clefable",
+  "pokedex_number": 36,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fd45781da02c0fe54c"
+  },
+  "name": "vulpix",
+  "pokedex_number": 37,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fe45781da02c0fe54d"
+  },
+  "name": "ninetales",
+  "pokedex_number": 38,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fe45781da02c0fe54e"
+  },
+  "name": "jigglypuff",
+  "pokedex_number": 39,
+  "types": [
+    "normal",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fe45781da02c0fe54f"
+  },
+  "name": "wigglytuff",
+  "pokedex_number": 40,
+  "types": [
+    "normal",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62fe45781da02c0fe550"
+  },
+  "name": "zubat",
+  "pokedex_number": 41,
+  "types": [
+    "poison",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62ff45781da02c0fe551"
+  },
+  "name": "golbat",
+  "pokedex_number": 42,
+  "types": [
+    "poison",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62ff45781da02c0fe552"
+  },
+  "name": "oddish",
+  "pokedex_number": 43,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62ff45781da02c0fe553"
+  },
+  "name": "gloom",
+  "pokedex_number": 44,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62ff45781da02c0fe554"
+  },
+  "name": "vileplume",
+  "pokedex_number": 45,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c62ff45781da02c0fe555"
+  },
+  "name": "paras",
+  "pokedex_number": 46,
+  "types": [
+    "bug",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630045781da02c0fe556"
+  },
+  "name": "parasect",
+  "pokedex_number": 47,
+  "types": [
+    "bug",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630045781da02c0fe557"
+  },
+  "name": "venonat",
+  "pokedex_number": 48,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630045781da02c0fe558"
+  },
+  "name": "venomoth",
+  "pokedex_number": 49,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630145781da02c0fe559"
+  },
+  "name": "diglett",
+  "pokedex_number": 50,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630145781da02c0fe55a"
+  },
+  "name": "dugtrio",
+  "pokedex_number": 51,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630145781da02c0fe55b"
+  },
+  "name": "meowth",
+  "pokedex_number": 52,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630145781da02c0fe55c"
+  },
+  "name": "persian",
+  "pokedex_number": 53,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630245781da02c0fe55d"
+  },
+  "name": "psyduck",
+  "pokedex_number": 54,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630245781da02c0fe55e"
+  },
+  "name": "golduck",
+  "pokedex_number": 55,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630245781da02c0fe55f"
+  },
+  "name": "mankey",
+  "pokedex_number": 56,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630245781da02c0fe560"
+  },
+  "name": "primeape",
+  "pokedex_number": 57,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630245781da02c0fe561"
+  },
+  "name": "growlithe",
+  "pokedex_number": 58,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630345781da02c0fe562"
+  },
+  "name": "arcanine",
+  "pokedex_number": 59,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630345781da02c0fe563"
+  },
+  "name": "poliwag",
+  "pokedex_number": 60,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630345781da02c0fe564"
+  },
+  "name": "poliwhirl",
+  "pokedex_number": 61,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630345781da02c0fe565"
+  },
+  "name": "poliwrath",
+  "pokedex_number": 62,
+  "types": [
+    "water",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630445781da02c0fe566"
+  },
+  "name": "abra",
+  "pokedex_number": 63,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630445781da02c0fe567"
+  },
+  "name": "kadabra",
+  "pokedex_number": 64,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630445781da02c0fe568"
+  },
+  "name": "alakazam",
+  "pokedex_number": 65,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630445781da02c0fe569"
+  },
+  "name": "machop",
+  "pokedex_number": 66,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630545781da02c0fe56a"
+  },
+  "name": "machoke",
+  "pokedex_number": 67,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630545781da02c0fe56b"
+  },
+  "name": "machamp",
+  "pokedex_number": 68,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630545781da02c0fe56c"
+  },
+  "name": "bellsprout",
+  "pokedex_number": 69,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630545781da02c0fe56d"
+  },
+  "name": "weepinbell",
+  "pokedex_number": 70,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630645781da02c0fe56e"
+  },
+  "name": "victreebel",
+  "pokedex_number": 71,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630645781da02c0fe56f"
+  },
+  "name": "tentacool",
+  "pokedex_number": 72,
+  "types": [
+    "water",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630645781da02c0fe570"
+  },
+  "name": "tentacruel",
+  "pokedex_number": 73,
+  "types": [
+    "water",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630645781da02c0fe571"
+  },
+  "name": "geodude",
+  "pokedex_number": 74,
+  "types": [
+    "rock",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630745781da02c0fe572"
+  },
+  "name": "graveler",
+  "pokedex_number": 75,
+  "types": [
+    "rock",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630745781da02c0fe573"
+  },
+  "name": "golem",
+  "pokedex_number": 76,
+  "types": [
+    "rock",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630745781da02c0fe574"
+  },
+  "name": "ponyta",
+  "pokedex_number": 77,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630745781da02c0fe575"
+  },
+  "name": "rapidash",
+  "pokedex_number": 78,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630745781da02c0fe576"
+  },
+  "name": "slowpoke",
+  "pokedex_number": 79,
+  "types": [
+    "water",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630845781da02c0fe577"
+  },
+  "name": "slowbro",
+  "pokedex_number": 80,
+  "types": [
+    "water",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630845781da02c0fe578"
+  },
+  "name": "magnemite",
+  "pokedex_number": 81,
+  "types": [
+    "electric",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630845781da02c0fe579"
+  },
+  "name": "magneton",
+  "pokedex_number": 82,
+  "types": [
+    "electric",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630845781da02c0fe57a"
+  },
+  "name": "farfetchd",
+  "pokedex_number": 83,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630945781da02c0fe57b"
+  },
+  "name": "doduo",
+  "pokedex_number": 84,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630945781da02c0fe57c"
+  },
+  "name": "dodrio",
+  "pokedex_number": 85,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630945781da02c0fe57d"
+  },
+  "name": "seel",
+  "pokedex_number": 86,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630945781da02c0fe57e"
+  },
+  "name": "dewgong",
+  "pokedex_number": 87,
+  "types": [
+    "water",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630a45781da02c0fe57f"
+  },
+  "name": "grimer",
+  "pokedex_number": 88,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630a45781da02c0fe580"
+  },
+  "name": "muk",
+  "pokedex_number": 89,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630a45781da02c0fe581"
+  },
+  "name": "shellder",
+  "pokedex_number": 90,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630a45781da02c0fe582"
+  },
+  "name": "cloyster",
+  "pokedex_number": 91,
+  "types": [
+    "water",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630a45781da02c0fe583"
+  },
+  "name": "gastly",
+  "pokedex_number": 92,
+  "types": [
+    "ghost",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630b45781da02c0fe584"
+  },
+  "name": "haunter",
+  "pokedex_number": 93,
+  "types": [
+    "ghost",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630b45781da02c0fe585"
+  },
+  "name": "gengar",
+  "pokedex_number": 94,
+  "types": [
+    "ghost",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630b45781da02c0fe586"
+  },
+  "name": "onix",
+  "pokedex_number": 95,
+  "types": [
+    "rock",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630c45781da02c0fe587"
+  },
+  "name": "drowzee",
+  "pokedex_number": 96,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630c45781da02c0fe588"
+  },
+  "name": "hypno",
+  "pokedex_number": 97,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630c45781da02c0fe589"
+  },
+  "name": "krabby",
+  "pokedex_number": 98,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630d45781da02c0fe58a"
+  },
+  "name": "kingler",
+  "pokedex_number": 99,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630d45781da02c0fe58b"
+  },
+  "name": "voltorb",
+  "pokedex_number": 100,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630d45781da02c0fe58c"
+  },
+  "name": "electrode",
+  "pokedex_number": 101,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630e45781da02c0fe58d"
+  },
+  "name": "exeggcute",
+  "pokedex_number": 102,
+  "types": [
+    "grass",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630e45781da02c0fe58e"
+  },
+  "name": "exeggutor",
+  "pokedex_number": 103,
+  "types": [
+    "grass",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630e45781da02c0fe58f"
+  },
+  "name": "cubone",
+  "pokedex_number": 104,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630f45781da02c0fe590"
+  },
+  "name": "marowak",
+  "pokedex_number": 105,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630f45781da02c0fe591"
+  },
+  "name": "hitmonlee",
+  "pokedex_number": 106,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630f45781da02c0fe592"
+  },
+  "name": "hitmonchan",
+  "pokedex_number": 107,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630f45781da02c0fe593"
+  },
+  "name": "lickitung",
+  "pokedex_number": 108,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c630f45781da02c0fe594"
+  },
+  "name": "koffing",
+  "pokedex_number": 109,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631045781da02c0fe595"
+  },
+  "name": "weezing",
+  "pokedex_number": 110,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631045781da02c0fe596"
+  },
+  "name": "rhyhorn",
+  "pokedex_number": 111,
+  "types": [
+    "ground",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631045781da02c0fe597"
+  },
+  "name": "rhydon",
+  "pokedex_number": 112,
+  "types": [
+    "ground",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631045781da02c0fe598"
+  },
+  "name": "chansey",
+  "pokedex_number": 113,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631145781da02c0fe599"
+  },
+  "name": "tangela",
+  "pokedex_number": 114,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631145781da02c0fe59a"
+  },
+  "name": "kangaskhan",
+  "pokedex_number": 115,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631145781da02c0fe59b"
+  },
+  "name": "horsea",
+  "pokedex_number": 116,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631245781da02c0fe59c"
+  },
+  "name": "seadra",
+  "pokedex_number": 117,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631245781da02c0fe59d"
+  },
+  "name": "goldeen",
+  "pokedex_number": 118,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631245781da02c0fe59e"
+  },
+  "name": "seaking",
+  "pokedex_number": 119,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631245781da02c0fe59f"
+  },
+  "name": "staryu",
+  "pokedex_number": 120,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631345781da02c0fe5a0"
+  },
+  "name": "starmie",
+  "pokedex_number": 121,
+  "types": [
+    "water",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631345781da02c0fe5a1"
+  },
+  "name": "mr-mime",
+  "pokedex_number": 122,
+  "types": [
+    "psychic",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631345781da02c0fe5a2"
+  },
+  "name": "scyther",
+  "pokedex_number": 123,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631345781da02c0fe5a3"
+  },
+  "name": "jynx",
+  "pokedex_number": 124,
+  "types": [
+    "ice",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631445781da02c0fe5a4"
+  },
+  "name": "electabuzz",
+  "pokedex_number": 125,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631445781da02c0fe5a5"
+  },
+  "name": "magmar",
+  "pokedex_number": 126,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631445781da02c0fe5a6"
+  },
+  "name": "pinsir",
+  "pokedex_number": 127,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631445781da02c0fe5a7"
+  },
+  "name": "tauros",
+  "pokedex_number": 128,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631445781da02c0fe5a8"
+  },
+  "name": "magikarp",
+  "pokedex_number": 129,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631545781da02c0fe5a9"
+  },
+  "name": "gyarados",
+  "pokedex_number": 130,
+  "types": [
+    "water",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631545781da02c0fe5aa"
+  },
+  "name": "lapras",
+  "pokedex_number": 131,
+  "types": [
+    "water",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631545781da02c0fe5ab"
+  },
+  "name": "ditto",
+  "pokedex_number": 132,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631545781da02c0fe5ac"
+  },
+  "name": "eevee",
+  "pokedex_number": 133,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631645781da02c0fe5ad"
+  },
+  "name": "vaporeon",
+  "pokedex_number": 134,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631645781da02c0fe5ae"
+  },
+  "name": "jolteon",
+  "pokedex_number": 135,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631645781da02c0fe5af"
+  },
+  "name": "flareon",
+  "pokedex_number": 136,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631645781da02c0fe5b0"
+  },
+  "name": "porygon",
+  "pokedex_number": 137,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631745781da02c0fe5b1"
+  },
+  "name": "omanyte",
+  "pokedex_number": 138,
+  "types": [
+    "rock",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631745781da02c0fe5b2"
+  },
+  "name": "omastar",
+  "pokedex_number": 139,
+  "types": [
+    "rock",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631745781da02c0fe5b3"
+  },
+  "name": "kabuto",
+  "pokedex_number": 140,
+  "types": [
+    "rock",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631845781da02c0fe5b4"
+  },
+  "name": "kabutops",
+  "pokedex_number": 141,
+  "types": [
+    "rock",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631845781da02c0fe5b5"
+  },
+  "name": "aerodactyl",
+  "pokedex_number": 142,
+  "types": [
+    "rock",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631945781da02c0fe5b6"
+  },
+  "name": "snorlax",
+  "pokedex_number": 143,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631945781da02c0fe5b7"
+  },
+  "name": "articuno",
+  "pokedex_number": 144,
+  "types": [
+    "ice",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631945781da02c0fe5b8"
+  },
+  "name": "zapdos",
+  "pokedex_number": 145,
+  "types": [
+    "electric",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631945781da02c0fe5b9"
+  },
+  "name": "moltres",
+  "pokedex_number": 146,
+  "types": [
+    "fire",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631a45781da02c0fe5ba"
+  },
+  "name": "dratini",
+  "pokedex_number": 147,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631a45781da02c0fe5bb"
+  },
+  "name": "dragonair",
+  "pokedex_number": 148,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631a45781da02c0fe5bc"
+  },
+  "name": "dragonite",
+  "pokedex_number": 149,
+  "types": [
+    "dragon",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631a45781da02c0fe5bd"
+  },
+  "name": "mewtwo",
+  "pokedex_number": 150,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631b45781da02c0fe5be"
+  },
+  "name": "mew",
+  "pokedex_number": 151,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631b45781da02c0fe5bf"
+  },
+  "name": "chikorita",
+  "pokedex_number": 152,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631b45781da02c0fe5c0"
+  },
+  "name": "bayleef",
+  "pokedex_number": 153,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631b45781da02c0fe5c1"
+  },
+  "name": "meganium",
+  "pokedex_number": 154,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631c45781da02c0fe5c2"
+  },
+  "name": "cyndaquil",
+  "pokedex_number": 155,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631c45781da02c0fe5c3"
+  },
+  "name": "quilava",
+  "pokedex_number": 156,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631c45781da02c0fe5c4"
+  },
+  "name": "typhlosion",
+  "pokedex_number": 157,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631c45781da02c0fe5c5"
+  },
+  "name": "totodile",
+  "pokedex_number": 158,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631d45781da02c0fe5c6"
+  },
+  "name": "croconaw",
+  "pokedex_number": 159,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631d45781da02c0fe5c7"
+  },
+  "name": "feraligatr",
+  "pokedex_number": 160,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631d45781da02c0fe5c8"
+  },
+  "name": "sentret",
+  "pokedex_number": 161,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631d45781da02c0fe5c9"
+  },
+  "name": "furret",
+  "pokedex_number": 162,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631e45781da02c0fe5ca"
+  },
+  "name": "hoothoot",
+  "pokedex_number": 163,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631e45781da02c0fe5cb"
+  },
+  "name": "noctowl",
+  "pokedex_number": 164,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631e45781da02c0fe5cc"
+  },
+  "name": "ledyba",
+  "pokedex_number": 165,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631e45781da02c0fe5cd"
+  },
+  "name": "ledian",
+  "pokedex_number": 166,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631e45781da02c0fe5ce"
+  },
+  "name": "spinarak",
+  "pokedex_number": 167,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631f45781da02c0fe5cf"
+  },
+  "name": "ariados",
+  "pokedex_number": 168,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631f45781da02c0fe5d0"
+  },
+  "name": "crobat",
+  "pokedex_number": 169,
+  "types": [
+    "poison",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c631f45781da02c0fe5d1"
+  },
+  "name": "chinchou",
+  "pokedex_number": 170,
+  "types": [
+    "water",
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632045781da02c0fe5d2"
+  },
+  "name": "lanturn",
+  "pokedex_number": 171,
+  "types": [
+    "water",
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632045781da02c0fe5d3"
+  },
+  "name": "pichu",
+  "pokedex_number": 172,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632045781da02c0fe5d4"
+  },
+  "name": "cleffa",
+  "pokedex_number": 173,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632045781da02c0fe5d5"
+  },
+  "name": "igglybuff",
+  "pokedex_number": 174,
+  "types": [
+    "normal",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632145781da02c0fe5d6"
+  },
+  "name": "togepi",
+  "pokedex_number": 175,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632145781da02c0fe5d7"
+  },
+  "name": "togetic",
+  "pokedex_number": 176,
+  "types": [
+    "fairy",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632145781da02c0fe5d8"
+  },
+  "name": "natu",
+  "pokedex_number": 177,
+  "types": [
+    "psychic",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632145781da02c0fe5d9"
+  },
+  "name": "xatu",
+  "pokedex_number": 178,
+  "types": [
+    "psychic",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632245781da02c0fe5da"
+  },
+  "name": "mareep",
+  "pokedex_number": 179,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632245781da02c0fe5db"
+  },
+  "name": "flaaffy",
+  "pokedex_number": 180,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632245781da02c0fe5dc"
+  },
+  "name": "ampharos",
+  "pokedex_number": 181,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632345781da02c0fe5dd"
+  },
+  "name": "bellossom",
+  "pokedex_number": 182,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632345781da02c0fe5de"
+  },
+  "name": "marill",
+  "pokedex_number": 183,
+  "types": [
+    "water",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632345781da02c0fe5df"
+  },
+  "name": "azumarill",
+  "pokedex_number": 184,
+  "types": [
+    "water",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632345781da02c0fe5e0"
+  },
+  "name": "sudowoodo",
+  "pokedex_number": 185,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632445781da02c0fe5e1"
+  },
+  "name": "politoed",
+  "pokedex_number": 186,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632445781da02c0fe5e2"
+  },
+  "name": "hoppip",
+  "pokedex_number": 187,
+  "types": [
+    "grass",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632445781da02c0fe5e3"
+  },
+  "name": "skiploom",
+  "pokedex_number": 188,
+  "types": [
+    "grass",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632445781da02c0fe5e4"
+  },
+  "name": "jumpluff",
+  "pokedex_number": 189,
+  "types": [
+    "grass",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632545781da02c0fe5e5"
+  },
+  "name": "aipom",
+  "pokedex_number": 190,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632545781da02c0fe5e6"
+  },
+  "name": "sunkern",
+  "pokedex_number": 191,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632545781da02c0fe5e7"
+  },
+  "name": "sunflora",
+  "pokedex_number": 192,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632545781da02c0fe5e8"
+  },
+  "name": "yanma",
+  "pokedex_number": 193,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632645781da02c0fe5e9"
+  },
+  "name": "wooper",
+  "pokedex_number": 194,
+  "types": [
+    "water",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632645781da02c0fe5ea"
+  },
+  "name": "quagsire",
+  "pokedex_number": 195,
+  "types": [
+    "water",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632645781da02c0fe5eb"
+  },
+  "name": "espeon",
+  "pokedex_number": 196,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632645781da02c0fe5ec"
+  },
+  "name": "umbreon",
+  "pokedex_number": 197,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632745781da02c0fe5ed"
+  },
+  "name": "murkrow",
+  "pokedex_number": 198,
+  "types": [
+    "dark",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632745781da02c0fe5ee"
+  },
+  "name": "slowking",
+  "pokedex_number": 199,
+  "types": [
+    "water",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632745781da02c0fe5ef"
+  },
+  "name": "misdreavus",
+  "pokedex_number": 200,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632745781da02c0fe5f0"
+  },
+  "name": "unown",
+  "pokedex_number": 201,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632745781da02c0fe5f1"
+  },
+  "name": "wobbuffet",
+  "pokedex_number": 202,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632845781da02c0fe5f2"
+  },
+  "name": "girafarig",
+  "pokedex_number": 203,
+  "types": [
+    "normal",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632845781da02c0fe5f3"
+  },
+  "name": "pineco",
+  "pokedex_number": 204,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632845781da02c0fe5f4"
+  },
+  "name": "forretress",
+  "pokedex_number": 205,
+  "types": [
+    "bug",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632845781da02c0fe5f5"
+  },
+  "name": "dunsparce",
+  "pokedex_number": 206,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632945781da02c0fe5f6"
+  },
+  "name": "gligar",
+  "pokedex_number": 207,
+  "types": [
+    "ground",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632945781da02c0fe5f7"
+  },
+  "name": "steelix",
+  "pokedex_number": 208,
+  "types": [
+    "steel",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632945781da02c0fe5f8"
+  },
+  "name": "snubbull",
+  "pokedex_number": 209,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632945781da02c0fe5f9"
+  },
+  "name": "granbull",
+  "pokedex_number": 210,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632a45781da02c0fe5fa"
+  },
+  "name": "qwilfish",
+  "pokedex_number": 211,
+  "types": [
+    "water",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632a45781da02c0fe5fb"
+  },
+  "name": "scizor",
+  "pokedex_number": 212,
+  "types": [
+    "bug",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632a45781da02c0fe5fc"
+  },
+  "name": "shuckle",
+  "pokedex_number": 213,
+  "types": [
+    "bug",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632a45781da02c0fe5fd"
+  },
+  "name": "heracross",
+  "pokedex_number": 214,
+  "types": [
+    "bug",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632b45781da02c0fe5fe"
+  },
+  "name": "sneasel",
+  "pokedex_number": 215,
+  "types": [
+    "dark",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632b45781da02c0fe5ff"
+  },
+  "name": "teddiursa",
+  "pokedex_number": 216,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632b45781da02c0fe600"
+  },
+  "name": "ursaring",
+  "pokedex_number": 217,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632b45781da02c0fe601"
+  },
+  "name": "slugma",
+  "pokedex_number": 218,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632c45781da02c0fe602"
+  },
+  "name": "magcargo",
+  "pokedex_number": 219,
+  "types": [
+    "fire",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632c45781da02c0fe603"
+  },
+  "name": "swinub",
+  "pokedex_number": 220,
+  "types": [
+    "ice",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632d45781da02c0fe604"
+  },
+  "name": "piloswine",
+  "pokedex_number": 221,
+  "types": [
+    "ice",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632d45781da02c0fe605"
+  },
+  "name": "corsola",
+  "pokedex_number": 222,
+  "types": [
+    "water",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632d45781da02c0fe606"
+  },
+  "name": "remoraid",
+  "pokedex_number": 223,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632d45781da02c0fe607"
+  },
+  "name": "octillery",
+  "pokedex_number": 224,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632e45781da02c0fe608"
+  },
+  "name": "delibird",
+  "pokedex_number": 225,
+  "types": [
+    "ice",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632e45781da02c0fe609"
+  },
+  "name": "mantine",
+  "pokedex_number": 226,
+  "types": [
+    "water",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632e45781da02c0fe60a"
+  },
+  "name": "skarmory",
+  "pokedex_number": 227,
+  "types": [
+    "steel",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632e45781da02c0fe60b"
+  },
+  "name": "houndour",
+  "pokedex_number": 228,
+  "types": [
+    "dark",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632f45781da02c0fe60c"
+  },
+  "name": "houndoom",
+  "pokedex_number": 229,
+  "types": [
+    "dark",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632f45781da02c0fe60d"
+  },
+  "name": "kingdra",
+  "pokedex_number": 230,
+  "types": [
+    "water",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632f45781da02c0fe60e"
+  },
+  "name": "phanpy",
+  "pokedex_number": 231,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c632f45781da02c0fe60f"
+  },
+  "name": "donphan",
+  "pokedex_number": 232,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633045781da02c0fe610"
+  },
+  "name": "porygon2",
+  "pokedex_number": 233,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633045781da02c0fe611"
+  },
+  "name": "stantler",
+  "pokedex_number": 234,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633045781da02c0fe612"
+  },
+  "name": "smeargle",
+  "pokedex_number": 235,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633045781da02c0fe613"
+  },
+  "name": "tyrogue",
+  "pokedex_number": 236,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633045781da02c0fe614"
+  },
+  "name": "hitmontop",
+  "pokedex_number": 237,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633145781da02c0fe615"
+  },
+  "name": "smoochum",
+  "pokedex_number": 238,
+  "types": [
+    "ice",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633145781da02c0fe616"
+  },
+  "name": "elekid",
+  "pokedex_number": 239,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633145781da02c0fe617"
+  },
+  "name": "magby",
+  "pokedex_number": 240,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633145781da02c0fe618"
+  },
+  "name": "miltank",
+  "pokedex_number": 241,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633245781da02c0fe619"
+  },
+  "name": "blissey",
+  "pokedex_number": 242,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633245781da02c0fe61a"
+  },
+  "name": "raikou",
+  "pokedex_number": 243,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633245781da02c0fe61b"
+  },
+  "name": "entei",
+  "pokedex_number": 244,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633245781da02c0fe61c"
+  },
+  "name": "suicune",
+  "pokedex_number": 245,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633345781da02c0fe61d"
+  },
+  "name": "larvitar",
+  "pokedex_number": 246,
+  "types": [
+    "rock",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633345781da02c0fe61e"
+  },
+  "name": "pupitar",
+  "pokedex_number": 247,
+  "types": [
+    "rock",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633345781da02c0fe61f"
+  },
+  "name": "tyranitar",
+  "pokedex_number": 248,
+  "types": [
+    "rock",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633345781da02c0fe620"
+  },
+  "name": "lugia",
+  "pokedex_number": 249,
+  "types": [
+    "psychic",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633445781da02c0fe621"
+  },
+  "name": "ho-oh",
+  "pokedex_number": 250,
+  "types": [
+    "fire",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633445781da02c0fe622"
+  },
+  "name": "celebi",
+  "pokedex_number": 251,
+  "types": [
+    "psychic",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633445781da02c0fe623"
+  },
+  "name": "treecko",
+  "pokedex_number": 252,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633545781da02c0fe624"
+  },
+  "name": "grovyle",
+  "pokedex_number": 253,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633545781da02c0fe625"
+  },
+  "name": "sceptile",
+  "pokedex_number": 254,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633545781da02c0fe626"
+  },
+  "name": "torchic",
+  "pokedex_number": 255,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633545781da02c0fe627"
+  },
+  "name": "combusken",
+  "pokedex_number": 256,
+  "types": [
+    "fire",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633645781da02c0fe628"
+  },
+  "name": "blaziken",
+  "pokedex_number": 257,
+  "types": [
+    "fire",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633645781da02c0fe629"
+  },
+  "name": "mudkip",
+  "pokedex_number": 258,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633645781da02c0fe62a"
+  },
+  "name": "marshtomp",
+  "pokedex_number": 259,
+  "types": [
+    "water",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633645781da02c0fe62b"
+  },
+  "name": "swampert",
+  "pokedex_number": 260,
+  "types": [
+    "water",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633745781da02c0fe62c"
+  },
+  "name": "poochyena",
+  "pokedex_number": 261,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633745781da02c0fe62d"
+  },
+  "name": "mightyena",
+  "pokedex_number": 262,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633845781da02c0fe62e"
+  },
+  "name": "zigzagoon",
+  "pokedex_number": 263,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633845781da02c0fe62f"
+  },
+  "name": "linoone",
+  "pokedex_number": 264,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633845781da02c0fe630"
+  },
+  "name": "wurmple",
+  "pokedex_number": 265,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633945781da02c0fe631"
+  },
+  "name": "silcoon",
+  "pokedex_number": 266,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633945781da02c0fe632"
+  },
+  "name": "beautifly",
+  "pokedex_number": 267,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633945781da02c0fe633"
+  },
+  "name": "cascoon",
+  "pokedex_number": 268,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633a45781da02c0fe634"
+  },
+  "name": "dustox",
+  "pokedex_number": 269,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633a45781da02c0fe635"
+  },
+  "name": "lotad",
+  "pokedex_number": 270,
+  "types": [
+    "water",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633a45781da02c0fe636"
+  },
+  "name": "lombre",
+  "pokedex_number": 271,
+  "types": [
+    "water",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633a45781da02c0fe637"
+  },
+  "name": "ludicolo",
+  "pokedex_number": 272,
+  "types": [
+    "water",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633a45781da02c0fe638"
+  },
+  "name": "seedot",
+  "pokedex_number": 273,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633b45781da02c0fe639"
+  },
+  "name": "nuzleaf",
+  "pokedex_number": 274,
+  "types": [
+    "grass",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633b45781da02c0fe63a"
+  },
+  "name": "shiftry",
+  "pokedex_number": 275,
+  "types": [
+    "grass",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633b45781da02c0fe63b"
+  },
+  "name": "taillow",
+  "pokedex_number": 276,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633b45781da02c0fe63c"
+  },
+  "name": "swellow",
+  "pokedex_number": 277,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633c45781da02c0fe63d"
+  },
+  "name": "wingull",
+  "pokedex_number": 278,
+  "types": [
+    "water",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633c45781da02c0fe63e"
+  },
+  "name": "pelipper",
+  "pokedex_number": 279,
+  "types": [
+    "water",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633c45781da02c0fe63f"
+  },
+  "name": "ralts",
+  "pokedex_number": 280,
+  "types": [
+    "psychic",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633c45781da02c0fe640"
+  },
+  "name": "kirlia",
+  "pokedex_number": 281,
+  "types": [
+    "psychic",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633d45781da02c0fe641"
+  },
+  "name": "gardevoir",
+  "pokedex_number": 282,
+  "types": [
+    "psychic",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633d45781da02c0fe642"
+  },
+  "name": "surskit",
+  "pokedex_number": 283,
+  "types": [
+    "bug",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633d45781da02c0fe643"
+  },
+  "name": "masquerain",
+  "pokedex_number": 284,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633d45781da02c0fe644"
+  },
+  "name": "shroomish",
+  "pokedex_number": 285,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633e45781da02c0fe645"
+  },
+  "name": "breloom",
+  "pokedex_number": 286,
+  "types": [
+    "grass",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633e45781da02c0fe646"
+  },
+  "name": "slakoth",
+  "pokedex_number": 287,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633e45781da02c0fe647"
+  },
+  "name": "vigoroth",
+  "pokedex_number": 288,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633e45781da02c0fe648"
+  },
+  "name": "slaking",
+  "pokedex_number": 289,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633f45781da02c0fe649"
+  },
+  "name": "nincada",
+  "pokedex_number": 290,
+  "types": [
+    "bug",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633f45781da02c0fe64a"
+  },
+  "name": "ninjask",
+  "pokedex_number": 291,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633f45781da02c0fe64b"
+  },
+  "name": "shedinja",
+  "pokedex_number": 292,
+  "types": [
+    "bug",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c633f45781da02c0fe64c"
+  },
+  "name": "whismur",
+  "pokedex_number": 293,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634045781da02c0fe64d"
+  },
+  "name": "loudred",
+  "pokedex_number": 294,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634045781da02c0fe64e"
+  },
+  "name": "exploud",
+  "pokedex_number": 295,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634045781da02c0fe64f"
+  },
+  "name": "makuhita",
+  "pokedex_number": 296,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634045781da02c0fe650"
+  },
+  "name": "hariyama",
+  "pokedex_number": 297,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634145781da02c0fe651"
+  },
+  "name": "azurill",
+  "pokedex_number": 298,
+  "types": [
+    "normal",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634145781da02c0fe652"
+  },
+  "name": "nosepass",
+  "pokedex_number": 299,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634145781da02c0fe653"
+  },
+  "name": "skitty",
+  "pokedex_number": 300,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634145781da02c0fe654"
+  },
+  "name": "delcatty",
+  "pokedex_number": 301,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634245781da02c0fe655"
+  },
+  "name": "sableye",
+  "pokedex_number": 302,
+  "types": [
+    "dark",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634245781da02c0fe656"
+  },
+  "name": "mawile",
+  "pokedex_number": 303,
+  "types": [
+    "steel",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634245781da02c0fe657"
+  },
+  "name": "aron",
+  "pokedex_number": 304,
+  "types": [
+    "steel",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634245781da02c0fe658"
+  },
+  "name": "lairon",
+  "pokedex_number": 305,
+  "types": [
+    "steel",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634345781da02c0fe659"
+  },
+  "name": "aggron",
+  "pokedex_number": 306,
+  "types": [
+    "steel",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634345781da02c0fe65a"
+  },
+  "name": "meditite",
+  "pokedex_number": 307,
+  "types": [
+    "fighting",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634345781da02c0fe65b"
+  },
+  "name": "medicham",
+  "pokedex_number": 308,
+  "types": [
+    "fighting",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634345781da02c0fe65c"
+  },
+  "name": "electrike",
+  "pokedex_number": 309,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634445781da02c0fe65d"
+  },
+  "name": "manectric",
+  "pokedex_number": 310,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634445781da02c0fe65e"
+  },
+  "name": "plusle",
+  "pokedex_number": 311,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634445781da02c0fe65f"
+  },
+  "name": "minun",
+  "pokedex_number": 312,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634545781da02c0fe660"
+  },
+  "name": "volbeat",
+  "pokedex_number": 313,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634545781da02c0fe661"
+  },
+  "name": "illumise",
+  "pokedex_number": 314,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634545781da02c0fe662"
+  },
+  "name": "roselia",
+  "pokedex_number": 315,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634545781da02c0fe663"
+  },
+  "name": "gulpin",
+  "pokedex_number": 316,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634645781da02c0fe664"
+  },
+  "name": "swalot",
+  "pokedex_number": 317,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634645781da02c0fe665"
+  },
+  "name": "carvanha",
+  "pokedex_number": 318,
+  "types": [
+    "water",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634645781da02c0fe666"
+  },
+  "name": "sharpedo",
+  "pokedex_number": 319,
+  "types": [
+    "water",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634645781da02c0fe667"
+  },
+  "name": "wailmer",
+  "pokedex_number": 320,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634745781da02c0fe668"
+  },
+  "name": "wailord",
+  "pokedex_number": 321,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634745781da02c0fe669"
+  },
+  "name": "numel",
+  "pokedex_number": 322,
+  "types": [
+    "fire",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634745781da02c0fe66a"
+  },
+  "name": "camerupt",
+  "pokedex_number": 323,
+  "types": [
+    "fire",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634745781da02c0fe66b"
+  },
+  "name": "torkoal",
+  "pokedex_number": 324,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634745781da02c0fe66c"
+  },
+  "name": "spoink",
+  "pokedex_number": 325,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634845781da02c0fe66d"
+  },
+  "name": "grumpig",
+  "pokedex_number": 326,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634845781da02c0fe66e"
+  },
+  "name": "spinda",
+  "pokedex_number": 327,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634845781da02c0fe66f"
+  },
+  "name": "trapinch",
+  "pokedex_number": 328,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634845781da02c0fe670"
+  },
+  "name": "vibrava",
+  "pokedex_number": 329,
+  "types": [
+    "ground",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634845781da02c0fe671"
+  },
+  "name": "flygon",
+  "pokedex_number": 330,
+  "types": [
+    "ground",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634945781da02c0fe672"
+  },
+  "name": "cacnea",
+  "pokedex_number": 331,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634945781da02c0fe673"
+  },
+  "name": "cacturne",
+  "pokedex_number": 332,
+  "types": [
+    "grass",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634945781da02c0fe674"
+  },
+  "name": "swablu",
+  "pokedex_number": 333,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634945781da02c0fe675"
+  },
+  "name": "altaria",
+  "pokedex_number": 334,
+  "types": [
+    "dragon",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634945781da02c0fe676"
+  },
+  "name": "zangoose",
+  "pokedex_number": 335,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634a45781da02c0fe677"
+  },
+  "name": "seviper",
+  "pokedex_number": 336,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634a45781da02c0fe678"
+  },
+  "name": "lunatone",
+  "pokedex_number": 337,
+  "types": [
+    "rock",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634a45781da02c0fe679"
+  },
+  "name": "solrock",
+  "pokedex_number": 338,
+  "types": [
+    "rock",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634b45781da02c0fe67a"
+  },
+  "name": "barboach",
+  "pokedex_number": 339,
+  "types": [
+    "water",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634b45781da02c0fe67b"
+  },
+  "name": "whiscash",
+  "pokedex_number": 340,
+  "types": [
+    "water",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634b45781da02c0fe67c"
+  },
+  "name": "corphish",
+  "pokedex_number": 341,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634b45781da02c0fe67d"
+  },
+  "name": "crawdaunt",
+  "pokedex_number": 342,
+  "types": [
+    "water",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634c45781da02c0fe67e"
+  },
+  "name": "baltoy",
+  "pokedex_number": 343,
+  "types": [
+    "ground",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634c45781da02c0fe67f"
+  },
+  "name": "claydol",
+  "pokedex_number": 344,
+  "types": [
+    "ground",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634c45781da02c0fe680"
+  },
+  "name": "lileep",
+  "pokedex_number": 345,
+  "types": [
+    "rock",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634d45781da02c0fe681"
+  },
+  "name": "cradily",
+  "pokedex_number": 346,
+  "types": [
+    "rock",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634d45781da02c0fe682"
+  },
+  "name": "anorith",
+  "pokedex_number": 347,
+  "types": [
+    "rock",
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634d45781da02c0fe683"
+  },
+  "name": "armaldo",
+  "pokedex_number": 348,
+  "types": [
+    "rock",
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634e45781da02c0fe684"
+  },
+  "name": "feebas",
+  "pokedex_number": 349,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634e45781da02c0fe685"
+  },
+  "name": "milotic",
+  "pokedex_number": 350,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634f45781da02c0fe686"
+  },
+  "name": "castform",
+  "pokedex_number": 351,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634f45781da02c0fe687"
+  },
+  "name": "kecleon",
+  "pokedex_number": 352,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634f45781da02c0fe688"
+  },
+  "name": "shuppet",
+  "pokedex_number": 353,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634f45781da02c0fe689"
+  },
+  "name": "banette",
+  "pokedex_number": 354,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c634f45781da02c0fe68a"
+  },
+  "name": "duskull",
+  "pokedex_number": 355,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635045781da02c0fe68b"
+  },
+  "name": "dusclops",
+  "pokedex_number": 356,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635045781da02c0fe68c"
+  },
+  "name": "tropius",
+  "pokedex_number": 357,
+  "types": [
+    "grass",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635045781da02c0fe68d"
+  },
+  "name": "chimecho",
+  "pokedex_number": 358,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635045781da02c0fe68e"
+  },
+  "name": "absol",
+  "pokedex_number": 359,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635145781da02c0fe68f"
+  },
+  "name": "wynaut",
+  "pokedex_number": 360,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635145781da02c0fe690"
+  },
+  "name": "snorunt",
+  "pokedex_number": 361,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635145781da02c0fe691"
+  },
+  "name": "glalie",
+  "pokedex_number": 362,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635145781da02c0fe692"
+  },
+  "name": "spheal",
+  "pokedex_number": 363,
+  "types": [
+    "ice",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635245781da02c0fe693"
+  },
+  "name": "sealeo",
+  "pokedex_number": 364,
+  "types": [
+    "ice",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635245781da02c0fe694"
+  },
+  "name": "walrein",
+  "pokedex_number": 365,
+  "types": [
+    "ice",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635245781da02c0fe695"
+  },
+  "name": "clamperl",
+  "pokedex_number": 366,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635245781da02c0fe696"
+  },
+  "name": "huntail",
+  "pokedex_number": 367,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635245781da02c0fe697"
+  },
+  "name": "gorebyss",
+  "pokedex_number": 368,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635345781da02c0fe698"
+  },
+  "name": "relicanth",
+  "pokedex_number": 369,
+  "types": [
+    "water",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635345781da02c0fe699"
+  },
+  "name": "luvdisc",
+  "pokedex_number": 370,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635345781da02c0fe69a"
+  },
+  "name": "bagon",
+  "pokedex_number": 371,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635345781da02c0fe69b"
+  },
+  "name": "shelgon",
+  "pokedex_number": 372,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635345781da02c0fe69c"
+  },
+  "name": "salamence",
+  "pokedex_number": 373,
+  "types": [
+    "dragon",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635445781da02c0fe69d"
+  },
+  "name": "beldum",
+  "pokedex_number": 374,
+  "types": [
+    "steel",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635445781da02c0fe69e"
+  },
+  "name": "metang",
+  "pokedex_number": 375,
+  "types": [
+    "steel",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635445781da02c0fe69f"
+  },
+  "name": "metagross",
+  "pokedex_number": 376,
+  "types": [
+    "steel",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635445781da02c0fe6a0"
+  },
+  "name": "regirock",
+  "pokedex_number": 377,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635445781da02c0fe6a1"
+  },
+  "name": "regice",
+  "pokedex_number": 378,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635545781da02c0fe6a2"
+  },
+  "name": "registeel",
+  "pokedex_number": 379,
+  "types": [
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635545781da02c0fe6a3"
+  },
+  "name": "latias",
+  "pokedex_number": 380,
+  "types": [
+    "dragon",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635545781da02c0fe6a4"
+  },
+  "name": "latios",
+  "pokedex_number": 381,
+  "types": [
+    "dragon",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635545781da02c0fe6a5"
+  },
+  "name": "kyogre",
+  "pokedex_number": 382,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635545781da02c0fe6a6"
+  },
+  "name": "groudon",
+  "pokedex_number": 383,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635645781da02c0fe6a7"
+  },
+  "name": "rayquaza",
+  "pokedex_number": 384,
+  "types": [
+    "dragon",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635645781da02c0fe6a8"
+  },
+  "name": "jirachi",
+  "pokedex_number": 385,
+  "types": [
+    "steel",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635645781da02c0fe6a9"
+  },
+  "name": "deoxys-normal",
+  "pokedex_number": 386,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635645781da02c0fe6aa"
+  },
+  "name": "turtwig",
+  "pokedex_number": 387,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635745781da02c0fe6ab"
+  },
+  "name": "grotle",
+  "pokedex_number": 388,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635745781da02c0fe6ac"
+  },
+  "name": "torterra",
+  "pokedex_number": 389,
+  "types": [
+    "grass",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635745781da02c0fe6ad"
+  },
+  "name": "chimchar",
+  "pokedex_number": 390,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635745781da02c0fe6ae"
+  },
+  "name": "monferno",
+  "pokedex_number": 391,
+  "types": [
+    "fire",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635845781da02c0fe6af"
+  },
+  "name": "infernape",
+  "pokedex_number": 392,
+  "types": [
+    "fire",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635845781da02c0fe6b0"
+  },
+  "name": "piplup",
+  "pokedex_number": 393,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635845781da02c0fe6b1"
+  },
+  "name": "prinplup",
+  "pokedex_number": 394,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635845781da02c0fe6b2"
+  },
+  "name": "empoleon",
+  "pokedex_number": 395,
+  "types": [
+    "water",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635945781da02c0fe6b3"
+  },
+  "name": "starly",
+  "pokedex_number": 396,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635945781da02c0fe6b4"
+  },
+  "name": "staravia",
+  "pokedex_number": 397,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635945781da02c0fe6b5"
+  },
+  "name": "staraptor",
+  "pokedex_number": 398,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635945781da02c0fe6b6"
+  },
+  "name": "bidoof",
+  "pokedex_number": 399,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635945781da02c0fe6b7"
+  },
+  "name": "bibarel",
+  "pokedex_number": 400,
+  "types": [
+    "normal",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635a45781da02c0fe6b8"
+  },
+  "name": "kricketot",
+  "pokedex_number": 401,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635a45781da02c0fe6b9"
+  },
+  "name": "kricketune",
+  "pokedex_number": 402,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635a45781da02c0fe6ba"
+  },
+  "name": "shinx",
+  "pokedex_number": 403,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635a45781da02c0fe6bb"
+  },
+  "name": "luxio",
+  "pokedex_number": 404,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635b45781da02c0fe6bc"
+  },
+  "name": "luxray",
+  "pokedex_number": 405,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635b45781da02c0fe6bd"
+  },
+  "name": "budew",
+  "pokedex_number": 406,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635b45781da02c0fe6be"
+  },
+  "name": "roserade",
+  "pokedex_number": 407,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635b45781da02c0fe6bf"
+  },
+  "name": "cranidos",
+  "pokedex_number": 408,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635c45781da02c0fe6c0"
+  },
+  "name": "rampardos",
+  "pokedex_number": 409,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635c45781da02c0fe6c1"
+  },
+  "name": "shieldon",
+  "pokedex_number": 410,
+  "types": [
+    "rock",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635c45781da02c0fe6c2"
+  },
+  "name": "bastiodon",
+  "pokedex_number": 411,
+  "types": [
+    "rock",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635c45781da02c0fe6c3"
+  },
+  "name": "burmy",
+  "pokedex_number": 412,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635d45781da02c0fe6c4"
+  },
+  "name": "wormadam-plant",
+  "pokedex_number": 413,
+  "types": [
+    "bug",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635d45781da02c0fe6c5"
+  },
+  "name": "mothim",
+  "pokedex_number": 414,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635d45781da02c0fe6c6"
+  },
+  "name": "combee",
+  "pokedex_number": 415,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635d45781da02c0fe6c7"
+  },
+  "name": "vespiquen",
+  "pokedex_number": 416,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635e45781da02c0fe6c8"
+  },
+  "name": "pachirisu",
+  "pokedex_number": 417,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635e45781da02c0fe6c9"
+  },
+  "name": "buizel",
+  "pokedex_number": 418,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635e45781da02c0fe6ca"
+  },
+  "name": "floatzel",
+  "pokedex_number": 419,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635e45781da02c0fe6cb"
+  },
+  "name": "cherubi",
+  "pokedex_number": 420,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635f45781da02c0fe6cc"
+  },
+  "name": "cherrim",
+  "pokedex_number": 421,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635f45781da02c0fe6cd"
+  },
+  "name": "shellos",
+  "pokedex_number": 422,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c635f45781da02c0fe6ce"
+  },
+  "name": "gastrodon",
+  "pokedex_number": 423,
+  "types": [
+    "water",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636045781da02c0fe6cf"
+  },
+  "name": "ambipom",
+  "pokedex_number": 424,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636045781da02c0fe6d0"
+  },
+  "name": "drifloon",
+  "pokedex_number": 425,
+  "types": [
+    "ghost",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636045781da02c0fe6d1"
+  },
+  "name": "drifblim",
+  "pokedex_number": 426,
+  "types": [
+    "ghost",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636145781da02c0fe6d2"
+  },
+  "name": "buneary",
+  "pokedex_number": 427,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636145781da02c0fe6d3"
+  },
+  "name": "lopunny",
+  "pokedex_number": 428,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636145781da02c0fe6d4"
+  },
+  "name": "mismagius",
+  "pokedex_number": 429,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636245781da02c0fe6d5"
+  },
+  "name": "honchkrow",
+  "pokedex_number": 430,
+  "types": [
+    "dark",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636245781da02c0fe6d6"
+  },
+  "name": "glameow",
+  "pokedex_number": 431,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636245781da02c0fe6d7"
+  },
+  "name": "purugly",
+  "pokedex_number": 432,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636245781da02c0fe6d8"
+  },
+  "name": "chingling",
+  "pokedex_number": 433,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636345781da02c0fe6d9"
+  },
+  "name": "stunky",
+  "pokedex_number": 434,
+  "types": [
+    "poison",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636345781da02c0fe6da"
+  },
+  "name": "skuntank",
+  "pokedex_number": 435,
+  "types": [
+    "poison",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636345781da02c0fe6db"
+  },
+  "name": "bronzor",
+  "pokedex_number": 436,
+  "types": [
+    "steel",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636345781da02c0fe6dc"
+  },
+  "name": "bronzong",
+  "pokedex_number": 437,
+  "types": [
+    "steel",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636445781da02c0fe6dd"
+  },
+  "name": "bonsly",
+  "pokedex_number": 438,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636445781da02c0fe6de"
+  },
+  "name": "mime-jr",
+  "pokedex_number": 439,
+  "types": [
+    "psychic",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636445781da02c0fe6df"
+  },
+  "name": "happiny",
+  "pokedex_number": 440,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636545781da02c0fe6e0"
+  },
+  "name": "chatot",
+  "pokedex_number": 441,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636545781da02c0fe6e1"
+  },
+  "name": "spiritomb",
+  "pokedex_number": 442,
+  "types": [
+    "ghost",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636545781da02c0fe6e2"
+  },
+  "name": "gible",
+  "pokedex_number": 443,
+  "types": [
+    "dragon",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636545781da02c0fe6e3"
+  },
+  "name": "gabite",
+  "pokedex_number": 444,
+  "types": [
+    "dragon",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636645781da02c0fe6e4"
+  },
+  "name": "garchomp",
+  "pokedex_number": 445,
+  "types": [
+    "dragon",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636645781da02c0fe6e5"
+  },
+  "name": "munchlax",
+  "pokedex_number": 446,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636645781da02c0fe6e6"
+  },
+  "name": "riolu",
+  "pokedex_number": 447,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636645781da02c0fe6e7"
+  },
+  "name": "lucario",
+  "pokedex_number": 448,
+  "types": [
+    "fighting",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636745781da02c0fe6e8"
+  },
+  "name": "hippopotas",
+  "pokedex_number": 449,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636745781da02c0fe6e9"
+  },
+  "name": "hippowdon",
+  "pokedex_number": 450,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636745781da02c0fe6ea"
+  },
+  "name": "skorupi",
+  "pokedex_number": 451,
+  "types": [
+    "poison",
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636745781da02c0fe6eb"
+  },
+  "name": "drapion",
+  "pokedex_number": 452,
+  "types": [
+    "poison",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636745781da02c0fe6ec"
+  },
+  "name": "croagunk",
+  "pokedex_number": 453,
+  "types": [
+    "poison",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636845781da02c0fe6ed"
+  },
+  "name": "toxicroak",
+  "pokedex_number": 454,
+  "types": [
+    "poison",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636845781da02c0fe6ee"
+  },
+  "name": "carnivine",
+  "pokedex_number": 455,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636845781da02c0fe6ef"
+  },
+  "name": "finneon",
+  "pokedex_number": 456,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636845781da02c0fe6f0"
+  },
+  "name": "lumineon",
+  "pokedex_number": 457,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636945781da02c0fe6f1"
+  },
+  "name": "mantyke",
+  "pokedex_number": 458,
+  "types": [
+    "water",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636945781da02c0fe6f2"
+  },
+  "name": "snover",
+  "pokedex_number": 459,
+  "types": [
+    "grass",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636945781da02c0fe6f3"
+  },
+  "name": "abomasnow",
+  "pokedex_number": 460,
+  "types": [
+    "grass",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636a45781da02c0fe6f4"
+  },
+  "name": "weavile",
+  "pokedex_number": 461,
+  "types": [
+    "dark",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636a45781da02c0fe6f5"
+  },
+  "name": "magnezone",
+  "pokedex_number": 462,
+  "types": [
+    "electric",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636a45781da02c0fe6f6"
+  },
+  "name": "lickilicky",
+  "pokedex_number": 463,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636a45781da02c0fe6f7"
+  },
+  "name": "rhyperior",
+  "pokedex_number": 464,
+  "types": [
+    "ground",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636a45781da02c0fe6f8"
+  },
+  "name": "tangrowth",
+  "pokedex_number": 465,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636b45781da02c0fe6f9"
+  },
+  "name": "electivire",
+  "pokedex_number": 466,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636b45781da02c0fe6fa"
+  },
+  "name": "magmortar",
+  "pokedex_number": 467,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636b45781da02c0fe6fb"
+  },
+  "name": "togekiss",
+  "pokedex_number": 468,
+  "types": [
+    "fairy",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636c45781da02c0fe6fc"
+  },
+  "name": "yanmega",
+  "pokedex_number": 469,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636c45781da02c0fe6fd"
+  },
+  "name": "leafeon",
+  "pokedex_number": 470,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636c45781da02c0fe6fe"
+  },
+  "name": "glaceon",
+  "pokedex_number": 471,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636c45781da02c0fe6ff"
+  },
+  "name": "gliscor",
+  "pokedex_number": 472,
+  "types": [
+    "ground",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636c45781da02c0fe700"
+  },
+  "name": "mamoswine",
+  "pokedex_number": 473,
+  "types": [
+    "ice",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636d45781da02c0fe701"
+  },
+  "name": "porygon-z",
+  "pokedex_number": 474,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636d45781da02c0fe702"
+  },
+  "name": "gallade",
+  "pokedex_number": 475,
+  "types": [
+    "psychic",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636d45781da02c0fe703"
+  },
+  "name": "probopass",
+  "pokedex_number": 476,
+  "types": [
+    "rock",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636d45781da02c0fe704"
+  },
+  "name": "dusknoir",
+  "pokedex_number": 477,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636e45781da02c0fe705"
+  },
+  "name": "froslass",
+  "pokedex_number": 478,
+  "types": [
+    "ice",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636e45781da02c0fe706"
+  },
+  "name": "rotom",
+  "pokedex_number": 479,
+  "types": [
+    "electric",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636e45781da02c0fe707"
+  },
+  "name": "uxie",
+  "pokedex_number": 480,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636e45781da02c0fe708"
+  },
+  "name": "mesprit",
+  "pokedex_number": 481,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636e45781da02c0fe709"
+  },
+  "name": "azelf",
+  "pokedex_number": 482,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636f45781da02c0fe70a"
+  },
+  "name": "dialga",
+  "pokedex_number": 483,
+  "types": [
+    "steel",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636f45781da02c0fe70b"
+  },
+  "name": "palkia",
+  "pokedex_number": 484,
+  "types": [
+    "water",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636f45781da02c0fe70c"
+  },
+  "name": "heatran",
+  "pokedex_number": 485,
+  "types": [
+    "fire",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636f45781da02c0fe70d"
+  },
+  "name": "regigigas",
+  "pokedex_number": 486,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c636f45781da02c0fe70e"
+  },
+  "name": "giratina-altered",
+  "pokedex_number": 487,
+  "types": [
+    "ghost",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637045781da02c0fe70f"
+  },
+  "name": "cresselia",
+  "pokedex_number": 488,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637045781da02c0fe710"
+  },
+  "name": "phione",
+  "pokedex_number": 489,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637045781da02c0fe711"
+  },
+  "name": "manaphy",
+  "pokedex_number": 490,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637045781da02c0fe712"
+  },
+  "name": "darkrai",
+  "pokedex_number": 491,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637145781da02c0fe713"
+  },
+  "name": "shaymin-land",
+  "pokedex_number": 492,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637145781da02c0fe714"
+  },
+  "name": "arceus",
+  "pokedex_number": 493,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637145781da02c0fe715"
+  },
+  "name": "victini",
+  "pokedex_number": 494,
+  "types": [
+    "psychic",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637145781da02c0fe716"
+  },
+  "name": "snivy",
+  "pokedex_number": 495,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637245781da02c0fe717"
+  },
+  "name": "servine",
+  "pokedex_number": 496,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637245781da02c0fe718"
+  },
+  "name": "serperior",
+  "pokedex_number": 497,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637245781da02c0fe719"
+  },
+  "name": "tepig",
+  "pokedex_number": 498,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637345781da02c0fe71a"
+  },
+  "name": "pignite",
+  "pokedex_number": 499,
+  "types": [
+    "fire",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637345781da02c0fe71b"
+  },
+  "name": "emboar",
+  "pokedex_number": 500,
+  "types": [
+    "fire",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637345781da02c0fe71c"
+  },
+  "name": "oshawott",
+  "pokedex_number": 501,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637345781da02c0fe71d"
+  },
+  "name": "dewott",
+  "pokedex_number": 502,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637445781da02c0fe71e"
+  },
+  "name": "samurott",
+  "pokedex_number": 503,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637445781da02c0fe71f"
+  },
+  "name": "patrat",
+  "pokedex_number": 504,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637445781da02c0fe720"
+  },
+  "name": "watchog",
+  "pokedex_number": 505,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637445781da02c0fe721"
+  },
+  "name": "lillipup",
+  "pokedex_number": 506,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637545781da02c0fe722"
+  },
+  "name": "herdier",
+  "pokedex_number": 507,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637545781da02c0fe723"
+  },
+  "name": "stoutland",
+  "pokedex_number": 508,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637545781da02c0fe724"
+  },
+  "name": "purrloin",
+  "pokedex_number": 509,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637545781da02c0fe725"
+  },
+  "name": "liepard",
+  "pokedex_number": 510,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637645781da02c0fe726"
+  },
+  "name": "pansage",
+  "pokedex_number": 511,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637645781da02c0fe727"
+  },
+  "name": "simisage",
+  "pokedex_number": 512,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637645781da02c0fe728"
+  },
+  "name": "pansear",
+  "pokedex_number": 513,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637645781da02c0fe729"
+  },
+  "name": "simisear",
+  "pokedex_number": 514,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637745781da02c0fe72a"
+  },
+  "name": "panpour",
+  "pokedex_number": 515,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637745781da02c0fe72b"
+  },
+  "name": "simipour",
+  "pokedex_number": 516,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637745781da02c0fe72c"
+  },
+  "name": "munna",
+  "pokedex_number": 517,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637845781da02c0fe72d"
+  },
+  "name": "musharna",
+  "pokedex_number": 518,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637845781da02c0fe72e"
+  },
+  "name": "pidove",
+  "pokedex_number": 519,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637845781da02c0fe72f"
+  },
+  "name": "tranquill",
+  "pokedex_number": 520,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637945781da02c0fe730"
+  },
+  "name": "unfezant",
+  "pokedex_number": 521,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637945781da02c0fe731"
+  },
+  "name": "blitzle",
+  "pokedex_number": 522,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637945781da02c0fe732"
+  },
+  "name": "zebstrika",
+  "pokedex_number": 523,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637945781da02c0fe733"
+  },
+  "name": "roggenrola",
+  "pokedex_number": 524,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637945781da02c0fe734"
+  },
+  "name": "boldore",
+  "pokedex_number": 525,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637a45781da02c0fe735"
+  },
+  "name": "gigalith",
+  "pokedex_number": 526,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637a45781da02c0fe736"
+  },
+  "name": "woobat",
+  "pokedex_number": 527,
+  "types": [
+    "psychic",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637a45781da02c0fe737"
+  },
+  "name": "swoobat",
+  "pokedex_number": 528,
+  "types": [
+    "psychic",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637a45781da02c0fe738"
+  },
+  "name": "drilbur",
+  "pokedex_number": 529,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637b45781da02c0fe739"
+  },
+  "name": "excadrill",
+  "pokedex_number": 530,
+  "types": [
+    "ground",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637b45781da02c0fe73a"
+  },
+  "name": "audino",
+  "pokedex_number": 531,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637b45781da02c0fe73b"
+  },
+  "name": "timburr",
+  "pokedex_number": 532,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637c45781da02c0fe73c"
+  },
+  "name": "gurdurr",
+  "pokedex_number": 533,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637c45781da02c0fe73d"
+  },
+  "name": "conkeldurr",
+  "pokedex_number": 534,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637c45781da02c0fe73e"
+  },
+  "name": "tympole",
+  "pokedex_number": 535,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637c45781da02c0fe73f"
+  },
+  "name": "palpitoad",
+  "pokedex_number": 536,
+  "types": [
+    "water",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637d45781da02c0fe740"
+  },
+  "name": "seismitoad",
+  "pokedex_number": 537,
+  "types": [
+    "water",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637d45781da02c0fe741"
+  },
+  "name": "throh",
+  "pokedex_number": 538,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637d45781da02c0fe742"
+  },
+  "name": "sawk",
+  "pokedex_number": 539,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637d45781da02c0fe743"
+  },
+  "name": "sewaddle",
+  "pokedex_number": 540,
+  "types": [
+    "bug",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637e45781da02c0fe744"
+  },
+  "name": "swadloon",
+  "pokedex_number": 541,
+  "types": [
+    "bug",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637e45781da02c0fe745"
+  },
+  "name": "leavanny",
+  "pokedex_number": 542,
+  "types": [
+    "bug",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637e45781da02c0fe746"
+  },
+  "name": "venipede",
+  "pokedex_number": 543,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637e45781da02c0fe747"
+  },
+  "name": "whirlipede",
+  "pokedex_number": 544,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637f45781da02c0fe748"
+  },
+  "name": "scolipede",
+  "pokedex_number": 545,
+  "types": [
+    "bug",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637f45781da02c0fe749"
+  },
+  "name": "cottonee",
+  "pokedex_number": 546,
+  "types": [
+    "grass",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637f45781da02c0fe74a"
+  },
+  "name": "whimsicott",
+  "pokedex_number": 547,
+  "types": [
+    "grass",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637f45781da02c0fe74b"
+  },
+  "name": "petilil",
+  "pokedex_number": 548,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c637f45781da02c0fe74c"
+  },
+  "name": "lilligant",
+  "pokedex_number": 549,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638045781da02c0fe74d"
+  },
+  "name": "basculin-red-striped",
+  "pokedex_number": 550,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638045781da02c0fe74e"
+  },
+  "name": "sandile",
+  "pokedex_number": 551,
+  "types": [
+    "ground",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638045781da02c0fe74f"
+  },
+  "name": "krokorok",
+  "pokedex_number": 552,
+  "types": [
+    "ground",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638045781da02c0fe750"
+  },
+  "name": "krookodile",
+  "pokedex_number": 553,
+  "types": [
+    "ground",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638145781da02c0fe751"
+  },
+  "name": "darumaka",
+  "pokedex_number": 554,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638145781da02c0fe752"
+  },
+  "name": "darmanitan-standard",
+  "pokedex_number": 555,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638145781da02c0fe753"
+  },
+  "name": "maractus",
+  "pokedex_number": 556,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638145781da02c0fe754"
+  },
+  "name": "dwebble",
+  "pokedex_number": 557,
+  "types": [
+    "bug",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638245781da02c0fe755"
+  },
+  "name": "crustle",
+  "pokedex_number": 558,
+  "types": [
+    "bug",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638245781da02c0fe756"
+  },
+  "name": "scraggy",
+  "pokedex_number": 559,
+  "types": [
+    "dark",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638245781da02c0fe757"
+  },
+  "name": "scrafty",
+  "pokedex_number": 560,
+  "types": [
+    "dark",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638345781da02c0fe758"
+  },
+  "name": "sigilyph",
+  "pokedex_number": 561,
+  "types": [
+    "psychic",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638345781da02c0fe759"
+  },
+  "name": "yamask",
+  "pokedex_number": 562,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638345781da02c0fe75a"
+  },
+  "name": "cofagrigus",
+  "pokedex_number": 563,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638345781da02c0fe75b"
+  },
+  "name": "tirtouga",
+  "pokedex_number": 564,
+  "types": [
+    "water",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638345781da02c0fe75c"
+  },
+  "name": "carracosta",
+  "pokedex_number": 565,
+  "types": [
+    "water",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638445781da02c0fe75d"
+  },
+  "name": "archen",
+  "pokedex_number": 566,
+  "types": [
+    "rock",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638445781da02c0fe75e"
+  },
+  "name": "archeops",
+  "pokedex_number": 567,
+  "types": [
+    "rock",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638445781da02c0fe75f"
+  },
+  "name": "trubbish",
+  "pokedex_number": 568,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638545781da02c0fe760"
+  },
+  "name": "garbodor",
+  "pokedex_number": 569,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638545781da02c0fe761"
+  },
+  "name": "zorua",
+  "pokedex_number": 570,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638545781da02c0fe762"
+  },
+  "name": "zoroark",
+  "pokedex_number": 571,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638545781da02c0fe763"
+  },
+  "name": "minccino",
+  "pokedex_number": 572,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638545781da02c0fe764"
+  },
+  "name": "cinccino",
+  "pokedex_number": 573,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638645781da02c0fe765"
+  },
+  "name": "gothita",
+  "pokedex_number": 574,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638645781da02c0fe766"
+  },
+  "name": "gothorita",
+  "pokedex_number": 575,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638645781da02c0fe767"
+  },
+  "name": "gothitelle",
+  "pokedex_number": 576,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638645781da02c0fe768"
+  },
+  "name": "solosis",
+  "pokedex_number": 577,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638645781da02c0fe769"
+  },
+  "name": "duosion",
+  "pokedex_number": 578,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638745781da02c0fe76a"
+  },
+  "name": "reuniclus",
+  "pokedex_number": 579,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638745781da02c0fe76b"
+  },
+  "name": "ducklett",
+  "pokedex_number": 580,
+  "types": [
+    "water",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638745781da02c0fe76c"
+  },
+  "name": "swanna",
+  "pokedex_number": 581,
+  "types": [
+    "water",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638745781da02c0fe76d"
+  },
+  "name": "vanillite",
+  "pokedex_number": 582,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638845781da02c0fe76e"
+  },
+  "name": "vanillish",
+  "pokedex_number": 583,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638845781da02c0fe76f"
+  },
+  "name": "vanilluxe",
+  "pokedex_number": 584,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638845781da02c0fe770"
+  },
+  "name": "deerling",
+  "pokedex_number": 585,
+  "types": [
+    "normal",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638945781da02c0fe771"
+  },
+  "name": "sawsbuck",
+  "pokedex_number": 586,
+  "types": [
+    "normal",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638945781da02c0fe772"
+  },
+  "name": "emolga",
+  "pokedex_number": 587,
+  "types": [
+    "electric",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638945781da02c0fe773"
+  },
+  "name": "karrablast",
+  "pokedex_number": 588,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638a45781da02c0fe774"
+  },
+  "name": "escavalier",
+  "pokedex_number": 589,
+  "types": [
+    "bug",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638a45781da02c0fe775"
+  },
+  "name": "foongus",
+  "pokedex_number": 590,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638a45781da02c0fe776"
+  },
+  "name": "amoonguss",
+  "pokedex_number": 591,
+  "types": [
+    "grass",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638a45781da02c0fe777"
+  },
+  "name": "frillish",
+  "pokedex_number": 592,
+  "types": [
+    "water",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638b45781da02c0fe778"
+  },
+  "name": "jellicent",
+  "pokedex_number": 593,
+  "types": [
+    "water",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638b45781da02c0fe779"
+  },
+  "name": "alomomola",
+  "pokedex_number": 594,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638b45781da02c0fe77a"
+  },
+  "name": "joltik",
+  "pokedex_number": 595,
+  "types": [
+    "bug",
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638b45781da02c0fe77b"
+  },
+  "name": "galvantula",
+  "pokedex_number": 596,
+  "types": [
+    "bug",
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638c45781da02c0fe77c"
+  },
+  "name": "ferroseed",
+  "pokedex_number": 597,
+  "types": [
+    "grass",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638c45781da02c0fe77d"
+  },
+  "name": "ferrothorn",
+  "pokedex_number": 598,
+  "types": [
+    "grass",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638c45781da02c0fe77e"
+  },
+  "name": "klink",
+  "pokedex_number": 599,
+  "types": [
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638c45781da02c0fe77f"
+  },
+  "name": "klang",
+  "pokedex_number": 600,
+  "types": [
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638d45781da02c0fe780"
+  },
+  "name": "klinklang",
+  "pokedex_number": 601,
+  "types": [
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638d45781da02c0fe781"
+  },
+  "name": "tynamo",
+  "pokedex_number": 602,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638d45781da02c0fe782"
+  },
+  "name": "eelektrik",
+  "pokedex_number": 603,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638d45781da02c0fe783"
+  },
+  "name": "eelektross",
+  "pokedex_number": 604,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638e45781da02c0fe784"
+  },
+  "name": "elgyem",
+  "pokedex_number": 605,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638e45781da02c0fe785"
+  },
+  "name": "beheeyem",
+  "pokedex_number": 606,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638e45781da02c0fe786"
+  },
+  "name": "litwick",
+  "pokedex_number": 607,
+  "types": [
+    "ghost",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638e45781da02c0fe787"
+  },
+  "name": "lampent",
+  "pokedex_number": 608,
+  "types": [
+    "ghost",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638f45781da02c0fe788"
+  },
+  "name": "chandelure",
+  "pokedex_number": 609,
+  "types": [
+    "ghost",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638f45781da02c0fe789"
+  },
+  "name": "axew",
+  "pokedex_number": 610,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c638f45781da02c0fe78a"
+  },
+  "name": "fraxure",
+  "pokedex_number": 611,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639045781da02c0fe78b"
+  },
+  "name": "haxorus",
+  "pokedex_number": 612,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639045781da02c0fe78c"
+  },
+  "name": "cubchoo",
+  "pokedex_number": 613,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639045781da02c0fe78d"
+  },
+  "name": "beartic",
+  "pokedex_number": 614,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639045781da02c0fe78e"
+  },
+  "name": "cryogonal",
+  "pokedex_number": 615,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639045781da02c0fe78f"
+  },
+  "name": "shelmet",
+  "pokedex_number": 616,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639145781da02c0fe790"
+  },
+  "name": "accelgor",
+  "pokedex_number": 617,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639145781da02c0fe791"
+  },
+  "name": "stunfisk",
+  "pokedex_number": 618,
+  "types": [
+    "ground",
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639145781da02c0fe792"
+  },
+  "name": "mienfoo",
+  "pokedex_number": 619,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639145781da02c0fe793"
+  },
+  "name": "mienshao",
+  "pokedex_number": 620,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639245781da02c0fe794"
+  },
+  "name": "druddigon",
+  "pokedex_number": 621,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639245781da02c0fe795"
+  },
+  "name": "golett",
+  "pokedex_number": 622,
+  "types": [
+    "ground",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639245781da02c0fe796"
+  },
+  "name": "golurk",
+  "pokedex_number": 623,
+  "types": [
+    "ground",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639345781da02c0fe797"
+  },
+  "name": "pawniard",
+  "pokedex_number": 624,
+  "types": [
+    "dark",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639345781da02c0fe798"
+  },
+  "name": "bisharp",
+  "pokedex_number": 625,
+  "types": [
+    "dark",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639345781da02c0fe799"
+  },
+  "name": "bouffalant",
+  "pokedex_number": 626,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639445781da02c0fe79a"
+  },
+  "name": "rufflet",
+  "pokedex_number": 627,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639445781da02c0fe79b"
+  },
+  "name": "braviary",
+  "pokedex_number": 628,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639445781da02c0fe79c"
+  },
+  "name": "vullaby",
+  "pokedex_number": 629,
+  "types": [
+    "dark",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639445781da02c0fe79d"
+  },
+  "name": "mandibuzz",
+  "pokedex_number": 630,
+  "types": [
+    "dark",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639545781da02c0fe79e"
+  },
+  "name": "heatmor",
+  "pokedex_number": 631,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639545781da02c0fe79f"
+  },
+  "name": "durant",
+  "pokedex_number": 632,
+  "types": [
+    "bug",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639545781da02c0fe7a0"
+  },
+  "name": "deino",
+  "pokedex_number": 633,
+  "types": [
+    "dark",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639545781da02c0fe7a1"
+  },
+  "name": "zweilous",
+  "pokedex_number": 634,
+  "types": [
+    "dark",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639645781da02c0fe7a2"
+  },
+  "name": "hydreigon",
+  "pokedex_number": 635,
+  "types": [
+    "dark",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639645781da02c0fe7a3"
+  },
+  "name": "larvesta",
+  "pokedex_number": 636,
+  "types": [
+    "bug",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639645781da02c0fe7a4"
+  },
+  "name": "volcarona",
+  "pokedex_number": 637,
+  "types": [
+    "bug",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639645781da02c0fe7a5"
+  },
+  "name": "cobalion",
+  "pokedex_number": 638,
+  "types": [
+    "steel",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639745781da02c0fe7a6"
+  },
+  "name": "terrakion",
+  "pokedex_number": 639,
+  "types": [
+    "rock",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639745781da02c0fe7a7"
+  },
+  "name": "virizion",
+  "pokedex_number": 640,
+  "types": [
+    "grass",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639745781da02c0fe7a8"
+  },
+  "name": "tornadus-incarnate",
+  "pokedex_number": 641,
+  "types": [
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639745781da02c0fe7a9"
+  },
+  "name": "thundurus-incarnate",
+  "pokedex_number": 642,
+  "types": [
+    "electric",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639845781da02c0fe7aa"
+  },
+  "name": "reshiram",
+  "pokedex_number": 643,
+  "types": [
+    "dragon",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639845781da02c0fe7ab"
+  },
+  "name": "zekrom",
+  "pokedex_number": 644,
+  "types": [
+    "dragon",
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639845781da02c0fe7ac"
+  },
+  "name": "landorus-incarnate",
+  "pokedex_number": 645,
+  "types": [
+    "ground",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639845781da02c0fe7ad"
+  },
+  "name": "kyurem",
+  "pokedex_number": 646,
+  "types": [
+    "dragon",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639945781da02c0fe7ae"
+  },
+  "name": "keldeo-ordinary",
+  "pokedex_number": 647,
+  "types": [
+    "water",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639945781da02c0fe7af"
+  },
+  "name": "meloetta-aria",
+  "pokedex_number": 648,
+  "types": [
+    "normal",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639945781da02c0fe7b0"
+  },
+  "name": "genesect",
+  "pokedex_number": 649,
+  "types": [
+    "bug",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639a45781da02c0fe7b1"
+  },
+  "name": "chespin",
+  "pokedex_number": 650,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639a45781da02c0fe7b2"
+  },
+  "name": "quilladin",
+  "pokedex_number": 651,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639a45781da02c0fe7b3"
+  },
+  "name": "chesnaught",
+  "pokedex_number": 652,
+  "types": [
+    "grass",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639a45781da02c0fe7b4"
+  },
+  "name": "fennekin",
+  "pokedex_number": 653,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639a45781da02c0fe7b5"
+  },
+  "name": "braixen",
+  "pokedex_number": 654,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639b45781da02c0fe7b6"
+  },
+  "name": "delphox",
+  "pokedex_number": 655,
+  "types": [
+    "fire",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639b45781da02c0fe7b7"
+  },
+  "name": "froakie",
+  "pokedex_number": 656,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639b45781da02c0fe7b8"
+  },
+  "name": "frogadier",
+  "pokedex_number": 657,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639b45781da02c0fe7b9"
+  },
+  "name": "greninja",
+  "pokedex_number": 658,
+  "types": [
+    "water",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639c45781da02c0fe7ba"
+  },
+  "name": "bunnelby",
+  "pokedex_number": 659,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639c45781da02c0fe7bb"
+  },
+  "name": "diggersby",
+  "pokedex_number": 660,
+  "types": [
+    "normal",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639c45781da02c0fe7bc"
+  },
+  "name": "fletchling",
+  "pokedex_number": 661,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639c45781da02c0fe7bd"
+  },
+  "name": "fletchinder",
+  "pokedex_number": 662,
+  "types": [
+    "fire",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639c45781da02c0fe7be"
+  },
+  "name": "talonflame",
+  "pokedex_number": 663,
+  "types": [
+    "fire",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639d45781da02c0fe7bf"
+  },
+  "name": "scatterbug",
+  "pokedex_number": 664,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639d45781da02c0fe7c0"
+  },
+  "name": "spewpa",
+  "pokedex_number": 665,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639d45781da02c0fe7c1"
+  },
+  "name": "vivillon",
+  "pokedex_number": 666,
+  "types": [
+    "bug",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639e45781da02c0fe7c2"
+  },
+  "name": "litleo",
+  "pokedex_number": 667,
+  "types": [
+    "fire",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639e45781da02c0fe7c3"
+  },
+  "name": "pyroar",
+  "pokedex_number": 668,
+  "types": [
+    "fire",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639e45781da02c0fe7c4"
+  },
+  "name": "flabebe",
+  "pokedex_number": 669,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639f45781da02c0fe7c5"
+  },
+  "name": "floette",
+  "pokedex_number": 670,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639f45781da02c0fe7c6"
+  },
+  "name": "florges",
+  "pokedex_number": 671,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c639f45781da02c0fe7c7"
+  },
+  "name": "skiddo",
+  "pokedex_number": 672,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a045781da02c0fe7c8"
+  },
+  "name": "gogoat",
+  "pokedex_number": 673,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a045781da02c0fe7c9"
+  },
+  "name": "pancham",
+  "pokedex_number": 674,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a045781da02c0fe7ca"
+  },
+  "name": "pangoro",
+  "pokedex_number": 675,
+  "types": [
+    "fighting",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a045781da02c0fe7cb"
+  },
+  "name": "furfrou",
+  "pokedex_number": 676,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a145781da02c0fe7cc"
+  },
+  "name": "espurr",
+  "pokedex_number": 677,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a145781da02c0fe7cd"
+  },
+  "name": "meowstic-male",
+  "pokedex_number": 678,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a145781da02c0fe7ce"
+  },
+  "name": "honedge",
+  "pokedex_number": 679,
+  "types": [
+    "steel",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a145781da02c0fe7cf"
+  },
+  "name": "doublade",
+  "pokedex_number": 680,
+  "types": [
+    "steel",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a245781da02c0fe7d0"
+  },
+  "name": "aegislash-shield",
+  "pokedex_number": 681,
+  "types": [
+    "steel",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a245781da02c0fe7d1"
+  },
+  "name": "spritzee",
+  "pokedex_number": 682,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a245781da02c0fe7d2"
+  },
+  "name": "aromatisse",
+  "pokedex_number": 683,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a245781da02c0fe7d3"
+  },
+  "name": "swirlix",
+  "pokedex_number": 684,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a245781da02c0fe7d4"
+  },
+  "name": "slurpuff",
+  "pokedex_number": 685,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a345781da02c0fe7d5"
+  },
+  "name": "inkay",
+  "pokedex_number": 686,
+  "types": [
+    "dark",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a345781da02c0fe7d6"
+  },
+  "name": "malamar",
+  "pokedex_number": 687,
+  "types": [
+    "dark",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a345781da02c0fe7d7"
+  },
+  "name": "binacle",
+  "pokedex_number": 688,
+  "types": [
+    "rock",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a345781da02c0fe7d8"
+  },
+  "name": "barbaracle",
+  "pokedex_number": 689,
+  "types": [
+    "rock",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a445781da02c0fe7d9"
+  },
+  "name": "skrelp",
+  "pokedex_number": 690,
+  "types": [
+    "poison",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a445781da02c0fe7da"
+  },
+  "name": "dragalge",
+  "pokedex_number": 691,
+  "types": [
+    "poison",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a445781da02c0fe7db"
+  },
+  "name": "clauncher",
+  "pokedex_number": 692,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a445781da02c0fe7dc"
+  },
+  "name": "clawitzer",
+  "pokedex_number": 693,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a445781da02c0fe7dd"
+  },
+  "name": "helioptile",
+  "pokedex_number": 694,
+  "types": [
+    "electric",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a545781da02c0fe7de"
+  },
+  "name": "heliolisk",
+  "pokedex_number": 695,
+  "types": [
+    "electric",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a545781da02c0fe7df"
+  },
+  "name": "tyrunt",
+  "pokedex_number": 696,
+  "types": [
+    "rock",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a545781da02c0fe7e0"
+  },
+  "name": "tyrantrum",
+  "pokedex_number": 697,
+  "types": [
+    "rock",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a545781da02c0fe7e1"
+  },
+  "name": "amaura",
+  "pokedex_number": 698,
+  "types": [
+    "rock",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a545781da02c0fe7e2"
+  },
+  "name": "aurorus",
+  "pokedex_number": 699,
+  "types": [
+    "rock",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a645781da02c0fe7e3"
+  },
+  "name": "sylveon",
+  "pokedex_number": 700,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a645781da02c0fe7e4"
+  },
+  "name": "hawlucha",
+  "pokedex_number": 701,
+  "types": [
+    "fighting",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a645781da02c0fe7e5"
+  },
+  "name": "dedenne",
+  "pokedex_number": 702,
+  "types": [
+    "electric",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a645781da02c0fe7e6"
+  },
+  "name": "carbink",
+  "pokedex_number": 703,
+  "types": [
+    "rock",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a745781da02c0fe7e7"
+  },
+  "name": "goomy",
+  "pokedex_number": 704,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a745781da02c0fe7e8"
+  },
+  "name": "sliggoo",
+  "pokedex_number": 705,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a745781da02c0fe7e9"
+  },
+  "name": "goodra",
+  "pokedex_number": 706,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a745781da02c0fe7ea"
+  },
+  "name": "klefki",
+  "pokedex_number": 707,
+  "types": [
+    "steel",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a845781da02c0fe7eb"
+  },
+  "name": "phantump",
+  "pokedex_number": 708,
+  "types": [
+    "ghost",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a845781da02c0fe7ec"
+  },
+  "name": "trevenant",
+  "pokedex_number": 709,
+  "types": [
+    "ghost",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a945781da02c0fe7ed"
+  },
+  "name": "pumpkaboo-average",
+  "pokedex_number": 710,
+  "types": [
+    "ghost",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a945781da02c0fe7ee"
+  },
+  "name": "gourgeist-average",
+  "pokedex_number": 711,
+  "types": [
+    "ghost",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a945781da02c0fe7ef"
+  },
+  "name": "bergmite",
+  "pokedex_number": 712,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63a945781da02c0fe7f0"
+  },
+  "name": "avalugg",
+  "pokedex_number": 713,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63aa45781da02c0fe7f1"
+  },
+  "name": "noibat",
+  "pokedex_number": 714,
+  "types": [
+    "flying",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63aa45781da02c0fe7f2"
+  },
+  "name": "noivern",
+  "pokedex_number": 715,
+  "types": [
+    "flying",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63aa45781da02c0fe7f3"
+  },
+  "name": "xerneas",
+  "pokedex_number": 716,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63aa45781da02c0fe7f4"
+  },
+  "name": "yveltal",
+  "pokedex_number": 717,
+  "types": [
+    "dark",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ab45781da02c0fe7f5"
+  },
+  "name": "zygarde-50",
+  "pokedex_number": 718,
+  "types": [
+    "dragon",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ab45781da02c0fe7f6"
+  },
+  "name": "diancie",
+  "pokedex_number": 719,
+  "types": [
+    "rock",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ab45781da02c0fe7f7"
+  },
+  "name": "hoopa",
+  "pokedex_number": 720,
+  "types": [
+    "psychic",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ab45781da02c0fe7f8"
+  },
+  "name": "volcanion",
+  "pokedex_number": 721,
+  "types": [
+    "fire",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ac45781da02c0fe7f9"
+  },
+  "name": "rowlet",
+  "pokedex_number": 722,
+  "types": [
+    "grass",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ac45781da02c0fe7fa"
+  },
+  "name": "dartrix",
+  "pokedex_number": 723,
+  "types": [
+    "grass",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ac45781da02c0fe7fb"
+  },
+  "name": "decidueye",
+  "pokedex_number": 724,
+  "types": [
+    "grass",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ac45781da02c0fe7fc"
+  },
+  "name": "litten",
+  "pokedex_number": 725,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ad45781da02c0fe7fd"
+  },
+  "name": "torracat",
+  "pokedex_number": 726,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ad45781da02c0fe7fe"
+  },
+  "name": "incineroar",
+  "pokedex_number": 727,
+  "types": [
+    "fire",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ad45781da02c0fe7ff"
+  },
+  "name": "popplio",
+  "pokedex_number": 728,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ad45781da02c0fe800"
+  },
+  "name": "brionne",
+  "pokedex_number": 729,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ae45781da02c0fe801"
+  },
+  "name": "primarina",
+  "pokedex_number": 730,
+  "types": [
+    "water",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ae45781da02c0fe802"
+  },
+  "name": "pikipek",
+  "pokedex_number": 731,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ae45781da02c0fe803"
+  },
+  "name": "trumbeak",
+  "pokedex_number": 732,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ae45781da02c0fe804"
+  },
+  "name": "toucannon",
+  "pokedex_number": 733,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63af45781da02c0fe805"
+  },
+  "name": "yungoos",
+  "pokedex_number": 734,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63af45781da02c0fe806"
+  },
+  "name": "gumshoos",
+  "pokedex_number": 735,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63af45781da02c0fe807"
+  },
+  "name": "grubbin",
+  "pokedex_number": 736,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63af45781da02c0fe808"
+  },
+  "name": "charjabug",
+  "pokedex_number": 737,
+  "types": [
+    "bug",
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b045781da02c0fe809"
+  },
+  "name": "vikavolt",
+  "pokedex_number": 738,
+  "types": [
+    "bug",
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b045781da02c0fe80a"
+  },
+  "name": "crabrawler",
+  "pokedex_number": 739,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b045781da02c0fe80b"
+  },
+  "name": "crabominable",
+  "pokedex_number": 740,
+  "types": [
+    "fighting",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b045781da02c0fe80c"
+  },
+  "name": "oricorio-baile",
+  "pokedex_number": 741,
+  "types": [
+    "fire",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b145781da02c0fe80d"
+  },
+  "name": "cutiefly",
+  "pokedex_number": 742,
+  "types": [
+    "bug",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b145781da02c0fe80e"
+  },
+  "name": "ribombee",
+  "pokedex_number": 743,
+  "types": [
+    "bug",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b145781da02c0fe80f"
+  },
+  "name": "rockruff",
+  "pokedex_number": 744,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b145781da02c0fe810"
+  },
+  "name": "lycanroc-midday",
+  "pokedex_number": 745,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b245781da02c0fe811"
+  },
+  "name": "wishiwashi-solo",
+  "pokedex_number": 746,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b245781da02c0fe812"
+  },
+  "name": "mareanie",
+  "pokedex_number": 747,
+  "types": [
+    "poison",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b245781da02c0fe813"
+  },
+  "name": "toxapex",
+  "pokedex_number": 748,
+  "types": [
+    "poison",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b245781da02c0fe814"
+  },
+  "name": "mudbray",
+  "pokedex_number": 749,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b345781da02c0fe815"
+  },
+  "name": "mudsdale",
+  "pokedex_number": 750,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b345781da02c0fe816"
+  },
+  "name": "dewpider",
+  "pokedex_number": 751,
+  "types": [
+    "water",
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b345781da02c0fe817"
+  },
+  "name": "araquanid",
+  "pokedex_number": 752,
+  "types": [
+    "water",
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b345781da02c0fe818"
+  },
+  "name": "fomantis",
+  "pokedex_number": 753,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b345781da02c0fe819"
+  },
+  "name": "lurantis",
+  "pokedex_number": 754,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b445781da02c0fe81a"
+  },
+  "name": "morelull",
+  "pokedex_number": 755,
+  "types": [
+    "grass",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b445781da02c0fe81b"
+  },
+  "name": "shiinotic",
+  "pokedex_number": 756,
+  "types": [
+    "grass",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b445781da02c0fe81c"
+  },
+  "name": "salandit",
+  "pokedex_number": 757,
+  "types": [
+    "poison",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b445781da02c0fe81d"
+  },
+  "name": "salazzle",
+  "pokedex_number": 758,
+  "types": [
+    "poison",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b545781da02c0fe81e"
+  },
+  "name": "stufful",
+  "pokedex_number": 759,
+  "types": [
+    "normal",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b545781da02c0fe81f"
+  },
+  "name": "bewear",
+  "pokedex_number": 760,
+  "types": [
+    "normal",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b545781da02c0fe820"
+  },
+  "name": "bounsweet",
+  "pokedex_number": 761,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b645781da02c0fe821"
+  },
+  "name": "steenee",
+  "pokedex_number": 762,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b645781da02c0fe822"
+  },
+  "name": "tsareena",
+  "pokedex_number": 763,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b645781da02c0fe823"
+  },
+  "name": "comfey",
+  "pokedex_number": 764,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b645781da02c0fe824"
+  },
+  "name": "oranguru",
+  "pokedex_number": 765,
+  "types": [
+    "normal",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b645781da02c0fe825"
+  },
+  "name": "passimian",
+  "pokedex_number": 766,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b745781da02c0fe826"
+  },
+  "name": "wimpod",
+  "pokedex_number": 767,
+  "types": [
+    "bug",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b745781da02c0fe827"
+  },
+  "name": "golisopod",
+  "pokedex_number": 768,
+  "types": [
+    "bug",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b745781da02c0fe828"
+  },
+  "name": "sandygast",
+  "pokedex_number": 769,
+  "types": [
+    "ghost",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b745781da02c0fe829"
+  },
+  "name": "palossand",
+  "pokedex_number": 770,
+  "types": [
+    "ghost",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b845781da02c0fe82a"
+  },
+  "name": "pyukumuku",
+  "pokedex_number": 771,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b845781da02c0fe82b"
+  },
+  "name": "type-null",
+  "pokedex_number": 772,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b845781da02c0fe82c"
+  },
+  "name": "silvally",
+  "pokedex_number": 773,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b845781da02c0fe82d"
+  },
+  "name": "minior-red-meteor",
+  "pokedex_number": 774,
+  "types": [
+    "rock",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b945781da02c0fe82e"
+  },
+  "name": "komala",
+  "pokedex_number": 775,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b945781da02c0fe82f"
+  },
+  "name": "turtonator",
+  "pokedex_number": 776,
+  "types": [
+    "fire",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63b945781da02c0fe830"
+  },
+  "name": "togedemaru",
+  "pokedex_number": 777,
+  "types": [
+    "electric",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ba45781da02c0fe831"
+  },
+  "name": "mimikyu-disguised",
+  "pokedex_number": 778,
+  "types": [
+    "ghost",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ba45781da02c0fe832"
+  },
+  "name": "bruxish",
+  "pokedex_number": 779,
+  "types": [
+    "water",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ba45781da02c0fe833"
+  },
+  "name": "drampa",
+  "pokedex_number": 780,
+  "types": [
+    "normal",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ba45781da02c0fe834"
+  },
+  "name": "dhelmise",
+  "pokedex_number": 781,
+  "types": [
+    "ghost",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bb45781da02c0fe835"
+  },
+  "name": "jangmo-o",
+  "pokedex_number": 782,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bb45781da02c0fe836"
+  },
+  "name": "hakamo-o",
+  "pokedex_number": 783,
+  "types": [
+    "dragon",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bb45781da02c0fe837"
+  },
+  "name": "kommo-o",
+  "pokedex_number": 784,
+  "types": [
+    "dragon",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bb45781da02c0fe838"
+  },
+  "name": "tapu-koko",
+  "pokedex_number": 785,
+  "types": [
+    "electric",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bc45781da02c0fe839"
+  },
+  "name": "tapu-lele",
+  "pokedex_number": 786,
+  "types": [
+    "psychic",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bc45781da02c0fe83a"
+  },
+  "name": "tapu-bulu",
+  "pokedex_number": 787,
+  "types": [
+    "grass",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bc45781da02c0fe83b"
+  },
+  "name": "tapu-fini",
+  "pokedex_number": 788,
+  "types": [
+    "water",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bc45781da02c0fe83c"
+  },
+  "name": "cosmog",
+  "pokedex_number": 789,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bd45781da02c0fe83d"
+  },
+  "name": "cosmoem",
+  "pokedex_number": 790,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bd45781da02c0fe83e"
+  },
+  "name": "solgaleo",
+  "pokedex_number": 791,
+  "types": [
+    "psychic",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bd45781da02c0fe83f"
+  },
+  "name": "lunala",
+  "pokedex_number": 792,
+  "types": [
+    "psychic",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bd45781da02c0fe840"
+  },
+  "name": "nihilego",
+  "pokedex_number": 793,
+  "types": [
+    "rock",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63be45781da02c0fe841"
+  },
+  "name": "buzzwole",
+  "pokedex_number": 794,
+  "types": [
+    "bug",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63be45781da02c0fe842"
+  },
+  "name": "pheromosa",
+  "pokedex_number": 795,
+  "types": [
+    "bug",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bf45781da02c0fe843"
+  },
+  "name": "xurkitree",
+  "pokedex_number": 796,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bf45781da02c0fe844"
+  },
+  "name": "celesteela",
+  "pokedex_number": 797,
+  "types": [
+    "steel",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bf45781da02c0fe845"
+  },
+  "name": "kartana",
+  "pokedex_number": 798,
+  "types": [
+    "grass",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63bf45781da02c0fe846"
+  },
+  "name": "guzzlord",
+  "pokedex_number": 799,
+  "types": [
+    "dark",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c045781da02c0fe847"
+  },
+  "name": "necrozma",
+  "pokedex_number": 800,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c045781da02c0fe848"
+  },
+  "name": "magearna",
+  "pokedex_number": 801,
+  "types": [
+    "steel",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c145781da02c0fe849"
+  },
+  "name": "marshadow",
+  "pokedex_number": 802,
+  "types": [
+    "fighting",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c145781da02c0fe84a"
+  },
+  "name": "poipole",
+  "pokedex_number": 803,
+  "types": [
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c145781da02c0fe84b"
+  },
+  "name": "naganadel",
+  "pokedex_number": 804,
+  "types": [
+    "poison",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c145781da02c0fe84c"
+  },
+  "name": "stakataka",
+  "pokedex_number": 805,
+  "types": [
+    "rock",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c245781da02c0fe84d"
+  },
+  "name": "blacephalon",
+  "pokedex_number": 806,
+  "types": [
+    "fire",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c245781da02c0fe84e"
+  },
+  "name": "zeraora",
+  "pokedex_number": 807,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c245781da02c0fe84f"
+  },
+  "name": "meltan",
+  "pokedex_number": 808,
+  "types": [
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c245781da02c0fe850"
+  },
+  "name": "melmetal",
+  "pokedex_number": 809,
+  "types": [
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c345781da02c0fe851"
+  },
+  "name": "grookey",
+  "pokedex_number": 810,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c345781da02c0fe852"
+  },
+  "name": "thwackey",
+  "pokedex_number": 811,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c345781da02c0fe853"
+  },
+  "name": "rillaboom",
+  "pokedex_number": 812,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c345781da02c0fe854"
+  },
+  "name": "scorbunny",
+  "pokedex_number": 813,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c345781da02c0fe855"
+  },
+  "name": "raboot",
+  "pokedex_number": 814,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c445781da02c0fe856"
+  },
+  "name": "cinderace",
+  "pokedex_number": 815,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c445781da02c0fe857"
+  },
+  "name": "sobble",
+  "pokedex_number": 816,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c445781da02c0fe858"
+  },
+  "name": "drizzile",
+  "pokedex_number": 817,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c445781da02c0fe859"
+  },
+  "name": "inteleon",
+  "pokedex_number": 818,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c545781da02c0fe85a"
+  },
+  "name": "skwovet",
+  "pokedex_number": 819,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c545781da02c0fe85b"
+  },
+  "name": "greedent",
+  "pokedex_number": 820,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c545781da02c0fe85c"
+  },
+  "name": "rookidee",
+  "pokedex_number": 821,
+  "types": [
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c645781da02c0fe85d"
+  },
+  "name": "corvisquire",
+  "pokedex_number": 822,
+  "types": [
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c645781da02c0fe85e"
+  },
+  "name": "corviknight",
+  "pokedex_number": 823,
+  "types": [
+    "flying",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c645781da02c0fe85f"
+  },
+  "name": "blipbug",
+  "pokedex_number": 824,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c645781da02c0fe860"
+  },
+  "name": "dottler",
+  "pokedex_number": 825,
+  "types": [
+    "bug",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c645781da02c0fe861"
+  },
+  "name": "orbeetle",
+  "pokedex_number": 826,
+  "types": [
+    "bug",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c745781da02c0fe862"
+  },
+  "name": "nickit",
+  "pokedex_number": 827,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c745781da02c0fe863"
+  },
+  "name": "thievul",
+  "pokedex_number": 828,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c745781da02c0fe864"
+  },
+  "name": "gossifleur",
+  "pokedex_number": 829,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c745781da02c0fe865"
+  },
+  "name": "eldegoss",
+  "pokedex_number": 830,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c845781da02c0fe866"
+  },
+  "name": "wooloo",
+  "pokedex_number": 831,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c845781da02c0fe867"
+  },
+  "name": "dubwool",
+  "pokedex_number": 832,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c845781da02c0fe868"
+  },
+  "name": "chewtle",
+  "pokedex_number": 833,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c945781da02c0fe869"
+  },
+  "name": "drednaw",
+  "pokedex_number": 834,
+  "types": [
+    "water",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c945781da02c0fe86a"
+  },
+  "name": "yamper",
+  "pokedex_number": 835,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c945781da02c0fe86b"
+  },
+  "name": "boltund",
+  "pokedex_number": 836,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c945781da02c0fe86c"
+  },
+  "name": "rolycoly",
+  "pokedex_number": 837,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63c945781da02c0fe86d"
+  },
+  "name": "carkol",
+  "pokedex_number": 838,
+  "types": [
+    "rock",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ca45781da02c0fe86e"
+  },
+  "name": "coalossal",
+  "pokedex_number": 839,
+  "types": [
+    "rock",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ca45781da02c0fe86f"
+  },
+  "name": "applin",
+  "pokedex_number": 840,
+  "types": [
+    "grass",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ca45781da02c0fe870"
+  },
+  "name": "flapple",
+  "pokedex_number": 841,
+  "types": [
+    "grass",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ca45781da02c0fe871"
+  },
+  "name": "appletun",
+  "pokedex_number": 842,
+  "types": [
+    "grass",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cb45781da02c0fe872"
+  },
+  "name": "silicobra",
+  "pokedex_number": 843,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cb45781da02c0fe873"
+  },
+  "name": "sandaconda",
+  "pokedex_number": 844,
+  "types": [
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cb45781da02c0fe874"
+  },
+  "name": "cramorant",
+  "pokedex_number": 845,
+  "types": [
+    "flying",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cb45781da02c0fe875"
+  },
+  "name": "arrokuda",
+  "pokedex_number": 846,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cb45781da02c0fe876"
+  },
+  "name": "barraskewda",
+  "pokedex_number": 847,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cb45781da02c0fe877"
+  },
+  "name": "toxel",
+  "pokedex_number": 848,
+  "types": [
+    "electric",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cc45781da02c0fe878"
+  },
+  "name": "toxtricity-amped",
+  "pokedex_number": 849,
+  "types": [
+    "electric",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cc45781da02c0fe879"
+  },
+  "name": "sizzlipede",
+  "pokedex_number": 850,
+  "types": [
+    "fire",
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cc45781da02c0fe87a"
+  },
+  "name": "centiskorch",
+  "pokedex_number": 851,
+  "types": [
+    "fire",
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cc45781da02c0fe87b"
+  },
+  "name": "clobbopus",
+  "pokedex_number": 852,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cd45781da02c0fe87c"
+  },
+  "name": "grapploct",
+  "pokedex_number": 853,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cd45781da02c0fe87d"
+  },
+  "name": "sinistea",
+  "pokedex_number": 854,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cd45781da02c0fe87e"
+  },
+  "name": "polteageist",
+  "pokedex_number": 855,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cd45781da02c0fe87f"
+  },
+  "name": "hatenna",
+  "pokedex_number": 856,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cd45781da02c0fe880"
+  },
+  "name": "hattrem",
+  "pokedex_number": 857,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ce45781da02c0fe881"
+  },
+  "name": "hatterene",
+  "pokedex_number": 858,
+  "types": [
+    "psychic",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ce45781da02c0fe882"
+  },
+  "name": "impidimp",
+  "pokedex_number": 859,
+  "types": [
+    "dark",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ce45781da02c0fe883"
+  },
+  "name": "morgrem",
+  "pokedex_number": 860,
+  "types": [
+    "dark",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ce45781da02c0fe884"
+  },
+  "name": "grimmsnarl",
+  "pokedex_number": 861,
+  "types": [
+    "dark",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cf45781da02c0fe885"
+  },
+  "name": "obstagoon",
+  "pokedex_number": 862,
+  "types": [
+    "dark",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cf45781da02c0fe886"
+  },
+  "name": "perrserker",
+  "pokedex_number": 863,
+  "types": [
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cf45781da02c0fe887"
+  },
+  "name": "cursola",
+  "pokedex_number": 864,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cf45781da02c0fe888"
+  },
+  "name": "sirfetchd",
+  "pokedex_number": 865,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63cf45781da02c0fe889"
+  },
+  "name": "mr-rime",
+  "pokedex_number": 866,
+  "types": [
+    "ice",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d045781da02c0fe88a"
+  },
+  "name": "runerigus",
+  "pokedex_number": 867,
+  "types": [
+    "ground",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d045781da02c0fe88b"
+  },
+  "name": "milcery",
+  "pokedex_number": 868,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d045781da02c0fe88c"
+  },
+  "name": "alcremie",
+  "pokedex_number": 869,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d045781da02c0fe88d"
+  },
+  "name": "falinks",
+  "pokedex_number": 870,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d145781da02c0fe88e"
+  },
+  "name": "pincurchin",
+  "pokedex_number": 871,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d145781da02c0fe88f"
+  },
+  "name": "snom",
+  "pokedex_number": 872,
+  "types": [
+    "ice",
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d145781da02c0fe890"
+  },
+  "name": "frosmoth",
+  "pokedex_number": 873,
+  "types": [
+    "ice",
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d245781da02c0fe891"
+  },
+  "name": "stonjourner",
+  "pokedex_number": 874,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d245781da02c0fe892"
+  },
+  "name": "eiscue-ice",
+  "pokedex_number": 875,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d245781da02c0fe893"
+  },
+  "name": "indeedee-male",
+  "pokedex_number": 876,
+  "types": [
+    "psychic",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d345781da02c0fe894"
+  },
+  "name": "morpeko-full-belly",
+  "pokedex_number": 877,
+  "types": [
+    "electric",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d345781da02c0fe895"
+  },
+  "name": "cufant",
+  "pokedex_number": 878,
+  "types": [
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d345781da02c0fe896"
+  },
+  "name": "copperajah",
+  "pokedex_number": 879,
+  "types": [
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d345781da02c0fe897"
+  },
+  "name": "dracozolt",
+  "pokedex_number": 880,
+  "types": [
+    "electric",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d445781da02c0fe898"
+  },
+  "name": "arctozolt",
+  "pokedex_number": 881,
+  "types": [
+    "electric",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d445781da02c0fe899"
+  },
+  "name": "dracovish",
+  "pokedex_number": 882,
+  "types": [
+    "water",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d445781da02c0fe89a"
+  },
+  "name": "arctovish",
+  "pokedex_number": 883,
+  "types": [
+    "water",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d445781da02c0fe89b"
+  },
+  "name": "duraludon",
+  "pokedex_number": 884,
+  "types": [
+    "steel",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d445781da02c0fe89c"
+  },
+  "name": "dreepy",
+  "pokedex_number": 885,
+  "types": [
+    "dragon",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d545781da02c0fe89d"
+  },
+  "name": "drakloak",
+  "pokedex_number": 886,
+  "types": [
+    "dragon",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d545781da02c0fe89e"
+  },
+  "name": "dragapult",
+  "pokedex_number": 887,
+  "types": [
+    "dragon",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d545781da02c0fe89f"
+  },
+  "name": "zacian",
+  "pokedex_number": 888,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d545781da02c0fe8a0"
+  },
+  "name": "zamazenta",
+  "pokedex_number": 889,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d645781da02c0fe8a1"
+  },
+  "name": "eternatus",
+  "pokedex_number": 890,
+  "types": [
+    "poison",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d645781da02c0fe8a2"
+  },
+  "name": "kubfu",
+  "pokedex_number": 891,
+  "types": [
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d645781da02c0fe8a3"
+  },
+  "name": "urshifu-single-strike",
+  "pokedex_number": 892,
+  "types": [
+    "fighting",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d645781da02c0fe8a4"
+  },
+  "name": "zarude",
+  "pokedex_number": 893,
+  "types": [
+    "dark",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d745781da02c0fe8a5"
+  },
+  "name": "regieleki",
+  "pokedex_number": 894,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d745781da02c0fe8a6"
+  },
+  "name": "regidrago",
+  "pokedex_number": 895,
+  "types": [
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d745781da02c0fe8a7"
+  },
+  "name": "glastrier",
+  "pokedex_number": 896,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d845781da02c0fe8a8"
+  },
+  "name": "spectrier",
+  "pokedex_number": 897,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d845781da02c0fe8a9"
+  },
+  "name": "calyrex",
+  "pokedex_number": 898,
+  "types": [
+    "psychic",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d845781da02c0fe8aa"
+  },
+  "name": "wyrdeer",
+  "pokedex_number": 899,
+  "types": [
+    "normal",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d845781da02c0fe8ab"
+  },
+  "name": "kleavor",
+  "pokedex_number": 900,
+  "types": [
+    "bug",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d845781da02c0fe8ac"
+  },
+  "name": "ursaluna",
+  "pokedex_number": 901,
+  "types": [
+    "ground",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d945781da02c0fe8ad"
+  },
+  "name": "basculegion-male",
+  "pokedex_number": 902,
+  "types": [
+    "water",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d945781da02c0fe8ae"
+  },
+  "name": "sneasler",
+  "pokedex_number": 903,
+  "types": [
+    "fighting",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d945781da02c0fe8af"
+  },
+  "name": "overqwil",
+  "pokedex_number": 904,
+  "types": [
+    "dark",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d945781da02c0fe8b0"
+  },
+  "name": "enamorus-incarnate",
+  "pokedex_number": 905,
+  "types": [
+    "fairy",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63d945781da02c0fe8b1"
+  },
+  "name": "sprigatito",
+  "pokedex_number": 906,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63da45781da02c0fe8b2"
+  },
+  "name": "floragato",
+  "pokedex_number": 907,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63da45781da02c0fe8b3"
+  },
+  "name": "meowscarada",
+  "pokedex_number": 908,
+  "types": [
+    "grass",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63da45781da02c0fe8b4"
+  },
+  "name": "fuecoco",
+  "pokedex_number": 909,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63da45781da02c0fe8b5"
+  },
+  "name": "crocalor",
+  "pokedex_number": 910,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63db45781da02c0fe8b6"
+  },
+  "name": "skeledirge",
+  "pokedex_number": 911,
+  "types": [
+    "fire",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63db45781da02c0fe8b7"
+  },
+  "name": "quaxly",
+  "pokedex_number": 912,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63db45781da02c0fe8b8"
+  },
+  "name": "quaxwell",
+  "pokedex_number": 913,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63dc45781da02c0fe8b9"
+  },
+  "name": "quaquaval",
+  "pokedex_number": 914,
+  "types": [
+    "water",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63dc45781da02c0fe8ba"
+  },
+  "name": "lechonk",
+  "pokedex_number": 915,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63dc45781da02c0fe8bb"
+  },
+  "name": "oinkologne",
+  "pokedex_number": 916,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63dc45781da02c0fe8bc"
+  },
+  "name": "tarountula",
+  "pokedex_number": 917,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63dd45781da02c0fe8bd"
+  },
+  "name": "spidops",
+  "pokedex_number": 918,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63dd45781da02c0fe8be"
+  },
+  "name": "nymble",
+  "pokedex_number": 919,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63dd45781da02c0fe8bf"
+  },
+  "name": "lokix",
+  "pokedex_number": 920,
+  "types": [
+    "bug",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63dd45781da02c0fe8c0"
+  },
+  "name": "pawmi",
+  "pokedex_number": 921,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63dd45781da02c0fe8c1"
+  },
+  "name": "pawmo",
+  "pokedex_number": 922,
+  "types": [
+    "electric",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63de45781da02c0fe8c2"
+  },
+  "name": "pawmot",
+  "pokedex_number": 923,
+  "types": [
+    "electric",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63de45781da02c0fe8c3"
+  },
+  "name": "tandemaus",
+  "pokedex_number": 924,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63de45781da02c0fe8c4"
+  },
+  "name": "maushold",
+  "pokedex_number": 925,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63de45781da02c0fe8c5"
+  },
+  "name": "fidough",
+  "pokedex_number": 926,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63df45781da02c0fe8c6"
+  },
+  "name": "dachsbun",
+  "pokedex_number": 927,
+  "types": [
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63df45781da02c0fe8c7"
+  },
+  "name": "smoliv",
+  "pokedex_number": 928,
+  "types": [
+    "grass",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63df45781da02c0fe8c8"
+  },
+  "name": "dolliv",
+  "pokedex_number": 929,
+  "types": [
+    "grass",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63df45781da02c0fe8c9"
+  },
+  "name": "arboliva",
+  "pokedex_number": 930,
+  "types": [
+    "grass",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e045781da02c0fe8ca"
+  },
+  "name": "squawkabilly",
+  "pokedex_number": 931,
+  "types": [
+    "normal",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e045781da02c0fe8cb"
+  },
+  "name": "nacli",
+  "pokedex_number": 932,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e045781da02c0fe8cc"
+  },
+  "name": "naclstack",
+  "pokedex_number": 933,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e045781da02c0fe8cd"
+  },
+  "name": "garganacl",
+  "pokedex_number": 934,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e145781da02c0fe8ce"
+  },
+  "name": "charcadet",
+  "pokedex_number": 935,
+  "types": [
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e145781da02c0fe8cf"
+  },
+  "name": "armarouge",
+  "pokedex_number": 936,
+  "types": [
+    "fire",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e145781da02c0fe8d0"
+  },
+  "name": "ceruledge",
+  "pokedex_number": 937,
+  "types": [
+    "fire",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e245781da02c0fe8d1"
+  },
+  "name": "tadbulb",
+  "pokedex_number": 938,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e245781da02c0fe8d2"
+  },
+  "name": "bellibolt",
+  "pokedex_number": 939,
+  "types": [
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e245781da02c0fe8d3"
+  },
+  "name": "wattrel",
+  "pokedex_number": 940,
+  "types": [
+    "electric",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e245781da02c0fe8d4"
+  },
+  "name": "kilowattrel",
+  "pokedex_number": 941,
+  "types": [
+    "electric",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e345781da02c0fe8d5"
+  },
+  "name": "maschiff",
+  "pokedex_number": 942,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e345781da02c0fe8d6"
+  },
+  "name": "mabosstiff",
+  "pokedex_number": 943,
+  "types": [
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e345781da02c0fe8d7"
+  },
+  "name": "shroodle",
+  "pokedex_number": 944,
+  "types": [
+    "poison",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e345781da02c0fe8d8"
+  },
+  "name": "grafaiai",
+  "pokedex_number": 945,
+  "types": [
+    "poison",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e445781da02c0fe8d9"
+  },
+  "name": "bramblin",
+  "pokedex_number": 946,
+  "types": [
+    "grass",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e445781da02c0fe8da"
+  },
+  "name": "brambleghast",
+  "pokedex_number": 947,
+  "types": [
+    "grass",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e445781da02c0fe8db"
+  },
+  "name": "toedscool",
+  "pokedex_number": 948,
+  "types": [
+    "ground",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e445781da02c0fe8dc"
+  },
+  "name": "toedscruel",
+  "pokedex_number": 949,
+  "types": [
+    "ground",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e545781da02c0fe8dd"
+  },
+  "name": "klawf",
+  "pokedex_number": 950,
+  "types": [
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e545781da02c0fe8de"
+  },
+  "name": "capsakid",
+  "pokedex_number": 951,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e545781da02c0fe8df"
+  },
+  "name": "scovillain",
+  "pokedex_number": 952,
+  "types": [
+    "grass",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e645781da02c0fe8e0"
+  },
+  "name": "rellor",
+  "pokedex_number": 953,
+  "types": [
+    "bug"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e645781da02c0fe8e1"
+  },
+  "name": "rabsca",
+  "pokedex_number": 954,
+  "types": [
+    "bug",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e645781da02c0fe8e2"
+  },
+  "name": "flittle",
+  "pokedex_number": 955,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e645781da02c0fe8e3"
+  },
+  "name": "espathra",
+  "pokedex_number": 956,
+  "types": [
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e745781da02c0fe8e4"
+  },
+  "name": "tinkatink",
+  "pokedex_number": 957,
+  "types": [
+    "fairy",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e745781da02c0fe8e5"
+  },
+  "name": "tinkatuff",
+  "pokedex_number": 958,
+  "types": [
+    "fairy",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e745781da02c0fe8e6"
+  },
+  "name": "tinkaton",
+  "pokedex_number": 959,
+  "types": [
+    "fairy",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e745781da02c0fe8e7"
+  },
+  "name": "wiglett",
+  "pokedex_number": 960,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e845781da02c0fe8e8"
+  },
+  "name": "wugtrio",
+  "pokedex_number": 961,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e845781da02c0fe8e9"
+  },
+  "name": "bombirdier",
+  "pokedex_number": 962,
+  "types": [
+    "flying",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e845781da02c0fe8ea"
+  },
+  "name": "finizen",
+  "pokedex_number": 963,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e845781da02c0fe8eb"
+  },
+  "name": "palafin",
+  "pokedex_number": 964,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e945781da02c0fe8ec"
+  },
+  "name": "varoom",
+  "pokedex_number": 965,
+  "types": [
+    "steel",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e945781da02c0fe8ed"
+  },
+  "name": "revavroom",
+  "pokedex_number": 966,
+  "types": [
+    "steel",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63e945781da02c0fe8ee"
+  },
+  "name": "cyclizar",
+  "pokedex_number": 967,
+  "types": [
+    "dragon",
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ea45781da02c0fe8ef"
+  },
+  "name": "orthworm",
+  "pokedex_number": 968,
+  "types": [
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ea45781da02c0fe8f0"
+  },
+  "name": "glimmet",
+  "pokedex_number": 969,
+  "types": [
+    "rock",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ea45781da02c0fe8f1"
+  },
+  "name": "glimmora",
+  "pokedex_number": 970,
+  "types": [
+    "rock",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ea45781da02c0fe8f2"
+  },
+  "name": "greavard",
+  "pokedex_number": 971,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63eb45781da02c0fe8f3"
+  },
+  "name": "houndstone",
+  "pokedex_number": 972,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63eb45781da02c0fe8f4"
+  },
+  "name": "flamigo",
+  "pokedex_number": 973,
+  "types": [
+    "flying",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63eb45781da02c0fe8f5"
+  },
+  "name": "cetoddle",
+  "pokedex_number": 974,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63eb45781da02c0fe8f6"
+  },
+  "name": "cetitan",
+  "pokedex_number": 975,
+  "types": [
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ec45781da02c0fe8f7"
+  },
+  "name": "veluza",
+  "pokedex_number": 976,
+  "types": [
+    "water",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ec45781da02c0fe8f8"
+  },
+  "name": "dondozo",
+  "pokedex_number": 977,
+  "types": [
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ec45781da02c0fe8f9"
+  },
+  "name": "tatsugiri",
+  "pokedex_number": 978,
+  "types": [
+    "dragon",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ec45781da02c0fe8fa"
+  },
+  "name": "annihilape",
+  "pokedex_number": 979,
+  "types": [
+    "fighting",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ed45781da02c0fe8fb"
+  },
+  "name": "clodsire",
+  "pokedex_number": 980,
+  "types": [
+    "poison",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ed45781da02c0fe8fc"
+  },
+  "name": "farigiraf",
+  "pokedex_number": 981,
+  "types": [
+    "normal",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ed45781da02c0fe8fd"
+  },
+  "name": "dudunsparce",
+  "pokedex_number": 982,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ed45781da02c0fe8fe"
+  },
+  "name": "kingambit",
+  "pokedex_number": 983,
+  "types": [
+    "dark",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ee45781da02c0fe8ff"
+  },
+  "name": "great-tusk",
+  "pokedex_number": 984,
+  "types": [
+    "ground",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ee45781da02c0fe900"
+  },
+  "name": "scream-tail",
+  "pokedex_number": 985,
+  "types": [
+    "fairy",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ee45781da02c0fe901"
+  },
+  "name": "brute-bonnet",
+  "pokedex_number": 986,
+  "types": [
+    "grass",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ee45781da02c0fe902"
+  },
+  "name": "flutter-mane",
+  "pokedex_number": 987,
+  "types": [
+    "ghost",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ef45781da02c0fe903"
+  },
+  "name": "slither-wing",
+  "pokedex_number": 988,
+  "types": [
+    "bug",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ef45781da02c0fe904"
+  },
+  "name": "sandy-shocks",
+  "pokedex_number": 989,
+  "types": [
+    "electric",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ef45781da02c0fe905"
+  },
+  "name": "iron-treads",
+  "pokedex_number": 990,
+  "types": [
+    "ground",
+    "steel"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63ef45781da02c0fe906"
+  },
+  "name": "iron-bundle",
+  "pokedex_number": 991,
+  "types": [
+    "ice",
+    "water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f045781da02c0fe907"
+  },
+  "name": "iron-hands",
+  "pokedex_number": 992,
+  "types": [
+    "fighting",
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f045781da02c0fe908"
+  },
+  "name": "iron-jugulis",
+  "pokedex_number": 993,
+  "types": [
+    "dark",
+    "flying"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f045781da02c0fe909"
+  },
+  "name": "iron-moth",
+  "pokedex_number": 994,
+  "types": [
+    "fire",
+    "poison"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f045781da02c0fe90a"
+  },
+  "name": "iron-thorns",
+  "pokedex_number": 995,
+  "types": [
+    "rock",
+    "electric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f145781da02c0fe90b"
+  },
+  "name": "frigibax",
+  "pokedex_number": 996,
+  "types": [
+    "dragon",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f145781da02c0fe90c"
+  },
+  "name": "arctibax",
+  "pokedex_number": 997,
+  "types": [
+    "dragon",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f145781da02c0fe90d"
+  },
+  "name": "baxcalibur",
+  "pokedex_number": 998,
+  "types": [
+    "dragon",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f145781da02c0fe90e"
+  },
+  "name": "gimmighoul",
+  "pokedex_number": 999,
+  "types": [
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f245781da02c0fe90f"
+  },
+  "name": "gholdengo",
+  "pokedex_number": 1000,
+  "types": [
+    "steel",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f245781da02c0fe910"
+  },
+  "name": "wo-chien",
+  "pokedex_number": 1001,
+  "types": [
+    "dark",
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f245781da02c0fe911"
+  },
+  "name": "chien-pao",
+  "pokedex_number": 1002,
+  "types": [
+    "dark",
+    "ice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f245781da02c0fe912"
+  },
+  "name": "ting-lu",
+  "pokedex_number": 1003,
+  "types": [
+    "dark",
+    "ground"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f245781da02c0fe913"
+  },
+  "name": "chi-yu",
+  "pokedex_number": 1004,
+  "types": [
+    "dark",
+    "fire"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f345781da02c0fe914"
+  },
+  "name": "roaring-moon",
+  "pokedex_number": 1005,
+  "types": [
+    "dragon",
+    "dark"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f345781da02c0fe915"
+  },
+  "name": "iron-valiant",
+  "pokedex_number": 1006,
+  "types": [
+    "fairy",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f345781da02c0fe916"
+  },
+  "name": "koraidon",
+  "pokedex_number": 1007,
+  "types": [
+    "fighting",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f345781da02c0fe917"
+  },
+  "name": "miraidon",
+  "pokedex_number": 1008,
+  "types": [
+    "electric",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f345781da02c0fe918"
+  },
+  "name": "walking-wake",
+  "pokedex_number": 1009,
+  "types": [
+    "water",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f445781da02c0fe919"
+  },
+  "name": "iron-leaves",
+  "pokedex_number": 1010,
+  "types": [
+    "grass",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f445781da02c0fe91a"
+  },
+  "name": "dipplin",
+  "pokedex_number": 1011,
+  "types": [
+    "grass",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f445781da02c0fe91b"
+  },
+  "name": "poltchageist",
+  "pokedex_number": 1012,
+  "types": [
+    "grass",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f445781da02c0fe91c"
+  },
+  "name": "sinistcha",
+  "pokedex_number": 1013,
+  "types": [
+    "grass",
+    "ghost"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f545781da02c0fe91d"
+  },
+  "name": "okidogi",
+  "pokedex_number": 1014,
+  "types": [
+    "poison",
+    "fighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f545781da02c0fe91e"
+  },
+  "name": "munkidori",
+  "pokedex_number": 1015,
+  "types": [
+    "poison",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f545781da02c0fe91f"
+  },
+  "name": "fezandipiti",
+  "pokedex_number": 1016,
+  "types": [
+    "poison",
+    "fairy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f545781da02c0fe920"
+  },
+  "name": "ogerpon",
+  "pokedex_number": 1017,
+  "types": [
+    "grass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f545781da02c0fe921"
+  },
+  "name": "archaludon",
+  "pokedex_number": 1018,
+  "types": [
+    "steel",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f645781da02c0fe922"
+  },
+  "name": "hydrapple",
+  "pokedex_number": 1019,
+  "types": [
+    "grass",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f645781da02c0fe923"
+  },
+  "name": "gouging-fire",
+  "pokedex_number": 1020,
+  "types": [
+    "fire",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f645781da02c0fe924"
+  },
+  "name": "raging-bolt",
+  "pokedex_number": 1021,
+  "types": [
+    "electric",
+    "dragon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f645781da02c0fe925"
+  },
+  "name": "iron-boulder",
+  "pokedex_number": 1022,
+  "types": [
+    "rock",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f745781da02c0fe926"
+  },
+  "name": "iron-crown",
+  "pokedex_number": 1023,
+  "types": [
+    "steel",
+    "psychic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f745781da02c0fe927"
+  },
+  "name": "terapagos",
+  "pokedex_number": 1024,
+  "types": [
+    "normal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662c63f745781da02c0fe928"
+  },
+  "name": "pecharunt",
+  "pokedex_number": 1025,
+  "types": [
+    "poison",
+    "ghost"
+  ]
+}]

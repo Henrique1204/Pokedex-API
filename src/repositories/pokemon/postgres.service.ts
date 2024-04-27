@@ -1,5 +1,5 @@
 import { Inject, Injectable } from '@nestjs/common';
-import { count, eq, sql } from 'drizzle-orm';
+import { eq } from 'drizzle-orm';
 
 import { PostgresJsDatabase } from 'drizzle-orm/postgres-js';
 

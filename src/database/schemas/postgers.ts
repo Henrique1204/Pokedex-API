@@ -1,4 +1,4 @@
-import { pgTable, serial, text, smallint, varchar } from 'drizzle-orm/pg-core';
+import { pgTable, serial, text, smallint } from 'drizzle-orm/pg-core';
 
 export const pokemon = pgTable('pokemon', {
   id: serial('id').primaryKey().notNull(),

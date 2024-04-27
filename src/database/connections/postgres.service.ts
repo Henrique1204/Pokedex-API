@@ -11,7 +11,7 @@ export class DBConfigService {
     return {
       tag: 'DATABASE',
       postgres: {
-        url: 'postgres://postgres:@127.0.0.1:5432/pokedex',
+        url: this.configService.get<string>('DATABASE_URL_POSTGRES'),
         config: {
           hostname: this.configService.get<string>('DATABASE_HOSTNAME'),
           username: this.configService.get<string>('DATABASE_USERNAME'),

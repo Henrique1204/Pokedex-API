@@ -2,10 +2,9 @@ import { Injectable } from '@nestjs/common';
 
 import { PokedexRepositorie } from 'src/models/repositories/pokedex.model';
 import * as PokemonEntity from 'src/models/entity/pokemon.model';
+import { PokemonDTO } from 'src/models/DTOs/pokemon';
 
 import { PrismaService } from 'src/database/connections/mongodb.service';
-
-import { PokemonDTO } from 'src/models/DTOs/pokemon';
 
 @Injectable()
 export class PokedexMongodbRepositorie extends PokedexRepositorie {
@@ -21,7 +20,7 @@ export class PokedexMongodbRepositorie extends PokedexRepositorie {
 
     const pokedexPaginatedData = await this.prisma.pokemon.findMany({
       skip: paginationOffset,
-      take: 1,
+      take: limit,
       orderBy: {
         pokedex_number: 'asc',
       },
@@ -42,5 +41,13 @@ export class PokedexMongodbRepositorie extends PokedexRepositorie {
     return totalPages;
   }
 
-  async insertPokemon({ name, pokedexNumber, types }: PokemonEntity.PokemonInseertData) {}
+  async insertPokemon({ name, pokedexNumber, types }: PokemonEntity.PokemonInsertData) {
+    await this.prisma.pokemon.create({
+      data: {
+        name,
+        pokedex_number: pokedexNumber,
+        types,
+      },
+    });
+  }
 }

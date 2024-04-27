@@ -1,7 +1,8 @@
 import { Module } from '@nestjs/common';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 
-import { PostgresDB } from 'src/database/connections/postgres.module';
+// Descomentar caso queira usar PostgresSQL.
+// import { PostgresDB } from 'src/database/connections/postgres.module';
 
 import { PokedexModule } from 'src/controllers/pokedex.module';
 import { PokemonModule } from 'src/controllers/pokemon.module';
@@ -12,7 +13,8 @@ import { PokemonModule } from 'src/controllers/pokemon.module';
       isGlobal: true,
       envFilePath: '.env',
     }),
-    PostgresDB,
+    // Descomentar caso queira usar PostgresSQL.
+    // PostgresDB,
     PokedexModule,
     PokemonModule,
   ],

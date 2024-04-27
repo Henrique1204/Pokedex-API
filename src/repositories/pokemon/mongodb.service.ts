@@ -5,11 +5,11 @@ import {
   FindPokemonByDexNumberParams,
   PokemonRepositorie,
 } from 'src/models/repositories/pokemon.model';
+
 import * as PokemonEntity from 'src/models/entity/pokemon.model';
+import { PokemonDTO } from 'src/models/DTOs/pokemon';
 
 import { PrismaService } from 'src/database/connections/mongodb.service';
-
-import { PokemonDTO } from 'src/models/DTOs/pokemon';
 
 @Injectable()
 export class PokemonMongodbRepositorie extends PokemonRepositorie {

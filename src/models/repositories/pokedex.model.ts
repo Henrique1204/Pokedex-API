@@ -14,5 +14,5 @@ export abstract class PokedexRepositorie {
 
   abstract getTotalPages(limitControl: LimitControl): Promise<number>;
 
-  abstract insertPokemon(newPokemonPayload: PokemonEntity.PokemonInseertData): Promise<void>;
+  abstract insertPokemon(newPokemonPayload: PokemonEntity.PokemonInsertData): Promise<void>;
 }

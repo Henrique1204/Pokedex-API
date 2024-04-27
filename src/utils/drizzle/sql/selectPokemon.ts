@@ -1,8 +1,8 @@
 import { sql } from 'drizzle-orm';
 
-import { POKEMON_ART_WORK, POKEMON_ART_WORK_EXTENSION } from 'src/utils/generateSprite';
-
 import * as schema from 'src/database/schemas/postgers';
+
+import { POKEMON_ART_WORK, POKEMON_ART_WORK_EXTENSION } from 'src/utils/generateSprite';
 
 export function selectFormattedPokemon(pokemonSchema: typeof schema.pokemon) {
   const spriteSchema =

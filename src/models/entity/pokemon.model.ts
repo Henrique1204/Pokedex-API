@@ -1,16 +1,18 @@
+export type ID = string | number;
+
 export type PokemonDatabaseData = {
-  id: string | number;
+  id: ID;
   name: string;
   pokedex_number: number;
   types: string[];
 };
 
 export type PokemonResponseData = {
-  id: string;
+  id: ID;
   name: string;
   pokedexNumber: number;
   types: string[];
   sprite: string;
 };
 
-export type PokemonInseertData = Pick<PokemonResponseData, 'name' | 'pokedexNumber' | 'types'>;
+export type PokemonInsertData = Pick<PokemonResponseData, 'name' | 'pokedexNumber' | 'types'>;

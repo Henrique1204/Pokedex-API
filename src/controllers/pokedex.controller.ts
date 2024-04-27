@@ -1,7 +1,8 @@
 import { Controller, Get, Query } from '@nestjs/common';
 
-import { PokedexService } from './pokedex.service';
 import { PaginationService } from 'src/modules/index.service';
+
+import { PokedexService } from './pokedex.service';
 
 @Controller()
 export class PokedexController {

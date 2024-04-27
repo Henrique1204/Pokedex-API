@@ -1,5 +1,7 @@
 import { Injectable } from '@nestjs/common';
 
+import { PokemonInsertData } from 'src/models/entity/pokemon.model';
+
 import {
   PokedexRepositorie,
   LimitControl,
@@ -16,5 +18,9 @@ export class PokedexService {
 
   async getTotalPages({ limit }: LimitControl) {
     return this.pokedexRepositorie.getTotalPages({ limit });
+  }
+
+  async insertPokemon({ name, pokedexNumber, types }: PokemonInsertData) {
+    return this.pokedexRepositorie.insertPokemon({ name, pokedexNumber, types });
   }
 }

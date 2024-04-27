@@ -44,7 +44,7 @@ export class PokedexPostgresRepositorie extends PokedexRepositorie {
     return totalPages;
   }
 
-  async insertPokemon({ name, pokedexNumber, types }: PokemonEntity.PokemonInseertData) {
+  async insertPokemon({ name, pokedexNumber, types }: PokemonEntity.PokemonInsertData) {
     await this.postegresDB.insert(this.pokemonSchema).values({
       name,
       pokedex_number: pokedexNumber,

@@ -1,12 +1,10 @@
 import { Module } from '@nestjs/common';
 
-import { PokedexRepositorie } from 'src/models/repositories/pokedex.model';
-
 import { PaginationService } from 'src/modules/index.service';
 
 import { PrismaService } from 'src/database/connections/mongodb.service';
 
-import { PokedexPostgresRepositorie } from 'src/repositories/pokedex/postgres.service';
+import { PokedexRepositorie } from 'src/models/repositories/pokedex.model';
 import { PokedexMongodbRepositorie } from 'src/repositories/pokedex/mongodb.service';
 
 import { PokedexController } from './pokedex.controller';
